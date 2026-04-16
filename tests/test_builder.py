@@ -1,10 +1,12 @@
 from datetime import datetime, timedelta, timezone
 import json
+import ssl
 import os
 
 from daily_news.builder import (
     dedupe_and_filter_entries,
     fetch_entries,
+    fetch_rss_entries,
     render_site,
 )
 
@@ -158,3 +160,112 @@ def test_fetch_entries_uses_tavily_results_when_api_key_present(monkeypatch):
     assert captured["body"]["query"] == "AI news"
     assert captured["body"]["topic"] == "news"
     assert captured["body"]["max_results"] == 5
+
+
+def test_fetch_rss_entries_retries_with_explicit_download_when_feedparser_ssl_fails(monkeypatch):
+    captured = {}
+    rss_xml = b"""<?xml version='1.0' encoding='UTF-8'?>
+    <rss version='2.0'>
+      <channel>
+        <title>Example Feed</title>
+        <item>
+          <title>SSL-safe AI update</title>
+          <link>https://example.com/ssl-safe</link>
+          <pubDate>Wed, 15 Apr 2026 12:00:00 GMT</pubDate>
+          <description>Downloaded with explicit CA bundle.</description>
+        </item>
+      </channel>
+    </rss>
+    """
+
+    class FakeFailingFeed:
+        entries = []
+        bozo = 1
+        bozo_exception = ssl.SSLCertVerificationError("certificate verify failed")
+
+    def fake_feedparser_parse(payload):
+        captured.setdefault("parse_calls", []).append(payload)
+        if isinstance(payload, str):
+            return FakeFailingFeed()
+        return type("ParsedFeed", (), {
+            "entries": [
+                {
+                    "title": "SSL-safe AI update",
+                    "link": "https://example.com/ssl-safe",
+                    "published": "Wed, 15 Apr 2026 12:00:00 GMT",
+                    "summary": "Downloaded with explicit CA bundle.",
+                }
+            ],
+            "bozo": 0,
+        })()
+
+    def fake_download(url):
+        captured["download_url"] = url
+        return rss_xml
+
+    monkeypatch.setattr("daily_news.builder.feedparser.parse", fake_feedparser_parse)
+    monkeypatch.setattr("daily_news.builder.download_feed_content", fake_download)
+
+    result = fetch_rss_entries({"name": "Example RSS", "url": "https://example.com/feed.xml"})
+
+    assert len(result) == 1
+    assert result[0]["source"] == "Example RSS"
+    assert result[0]["title"] == "SSL-safe AI update"
+    assert captured["parse_calls"][0] == "https://example.com/feed.xml"
+    assert captured["parse_calls"][1] == rss_xml
+    assert captured["download_url"] == "https://example.com/feed.xml"
+
+
+def test_fetch_entries_skips_sources_that_raise_errors(monkeypatch):
+    def fake_fetch_rss_entries(source):
+        if source["name"] == "Broken Feed":
+            raise RuntimeError("boom")
+        return [
+            {
+                "source": source["name"],
+                "title": "Working item",
+                "link": "https://example.com/item",
+                "published": datetime(2026, 4, 15, 12, 0, tzinfo=timezone.utc),
+                "summary": "ok",
+            }
+        ]
+
+    monkeypatch.setattr("daily_news.builder.fetch_rss_entries", fake_fetch_rss_entries)
+
+    result = fetch_entries(
+        [
+            {"name": "Broken Feed", "url": "https://example.com/broken.xml"},
+            {"name": "Healthy Feed", "url": "https://example.com/healthy.xml"},
+        ]
+    )
+
+    assert len(result) == 1
+    assert result[0]["source"] == "Healthy Feed"
+
+
+def test_render_site_uses_latest_available_day_when_generated_day_has_no_entries(tmp_path):
+    generated_at = datetime(2026, 4, 16, 3, 0, tzinfo=timezone.utc)
+    entries = [
+        make_entry("TechCrunch AI", "Late-night AI funding round", "https://example.com/funding", datetime(2026, 4, 15, 23, 30, tzinfo=timezone.utc), "Funding update"),
+        make_entry("OpenAI", "Agents SDK update", "https://example.com/agents", datetime(2026, 4, 15, 20, 0, tzinfo=timezone.utc), "SDK update"),
+    ]
+
+    render_site(
+        entries=entries,
+        generated_at=generated_at,
+        output_dir=tmp_path,
+        site_title="每日 AI 资讯",
+        base_url="https://cocoduan2.github.io/daily-news/",
+        description="每天自动更新的 AI 新闻聚合站。",
+    )
+
+    home_html = (tmp_path / "index.html").read_text(encoding="utf-8")
+    payload = json.loads((tmp_path / "news.json").read_text(encoding="utf-8"))
+
+    assert "Late-night AI funding round" in home_html
+    assert "Agents SDK update" in home_html
+    assert payload["count"] == 2
+    assert [item["title"] for item in payload["items"]] == [
+        "Late-night AI funding round",
+        "Agents SDK update",
+    ]

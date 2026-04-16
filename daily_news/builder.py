@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import ssl
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -11,6 +12,7 @@ from typing import Any
 from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
+import certifi
 import feedparser
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
@@ -78,16 +80,21 @@ def fetch_entries(sources: list[dict[str, str]]) -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     for source in sources:
         source_type = source.get("type", "rss")
-        if source_type == "rss":
-            entries.extend(fetch_rss_entries(source))
-        elif source_type == "tavily":
-            entries.extend(fetch_tavily_entries(source))
+        try:
+            if source_type == "rss":
+                entries.extend(fetch_rss_entries(source))
+            elif source_type == "tavily":
+                entries.extend(fetch_tavily_entries(source))
+        except Exception as exc:
+            print(f"[warn] skipping source {source.get('name', 'unknown')}: {exc}")
     return entries
 
 
 def fetch_rss_entries(source: dict[str, str]) -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     feed = feedparser.parse(source["url"])
+    if should_retry_feed_with_download(feed):
+        feed = feedparser.parse(download_feed_content(source["url"]))
     for item in getattr(feed, "entries", []):
         published = parse_entry_datetime(item)
         if published is None:
@@ -102,6 +109,28 @@ def fetch_rss_entries(source: dict[str, str]) -> list[dict[str, Any]]:
             }
         )
     return entries
+
+
+def should_retry_feed_with_download(feed: Any) -> bool:
+    exception = getattr(feed, "bozo_exception", None)
+    if exception is None:
+        return False
+    if isinstance(exception, ssl.SSLCertVerificationError):
+        return True
+    return "CERTIFICATE_VERIFY_FAILED" in repr(exception)
+
+
+def download_feed_content(url: str) -> bytes:
+    request = Request(
+        url,
+        headers={
+            "User-Agent": "Mozilla/5.0 (compatible; DailyNewsBot/1.0; +https://github.com/CocoDuan2/daily-news)",
+            "Accept": "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+        },
+    )
+    ssl_context = ssl.create_default_context(cafile=certifi.where())
+    with urlopen(request, timeout=20, context=ssl_context) as response:
+        return response.read()
 
 
 def fetch_tavily_entries(source: dict[str, Any]) -> list[dict[str, Any]]:
@@ -290,14 +319,16 @@ def render_site(
     all_grouped = group_entries_by_day(entries)
     today_key = generated_at.strftime("%Y-%m-%d")
     today_entries = next((group["entries"] for group in all_grouped if group["date"] == today_key), [])
-    featured_entries = select_featured_entries(today_entries)
-    remaining_entries = [entry for entry in today_entries if entry not in featured_entries]
+    display_entries = today_entries or (all_grouped[0]["entries"] if all_grouped else [])
+    display_day_key = today_key if today_entries else (all_grouped[0]["date"] if all_grouped else today_key)
+    featured_entries = select_featured_entries(display_entries)
+    remaining_entries = [entry for entry in display_entries if entry not in featured_entries]
 
     home_html = index_template.render(
         site_title=site_title,
         generated_at=generated_at,
         description=description,
-        today_key=today_key,
+        today_key=display_day_key,
         featured_entries=featured_entries,
         remaining_entries=remaining_entries,
         archive_url=(base_url or "") + "archive/",
@@ -323,7 +354,7 @@ def render_site(
         )
         (archive_path / f"{group['date']}.html").write_text(day_html, encoding="utf-8")
 
-    payload = build_news_payload(today_entries, generated_at)
+    payload = build_news_payload(display_entries, generated_at)
     (output_path / "news.json").write_text(
         json.dumps(payload, ensure_ascii=False, indent=2),
         encoding="utf-8",

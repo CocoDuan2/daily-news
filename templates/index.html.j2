@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site_title }}</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #0b1020;
+        --panel: #121933;
+        --text: #e9eefc;
+        --muted: #a8b3cf;
+        --accent: #74c0fc;
+        --border: #253056;
+      }
+      body {
+        margin: 0;
+        font-family: Inter, ui-sans-serif, system-ui, -apple-system, sans-serif;
+        background: linear-gradient(180deg, #0b1020 0%, #121933 100%);
+        color: var(--text);
+      }
+      .container {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 40px 20px 80px;
+      }
+      h1 {
+        margin-bottom: 8px;
+      }
+      .meta {
+        color: var(--muted);
+        margin-bottom: 32px;
+      }
+      .card {
+        background: rgba(18, 25, 51, 0.88);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 20px;
+        margin-bottom: 16px;
+        box-shadow: 0 16px 40px rgba(0, 0, 0, 0.18);
+      }
+      .source {
+        color: var(--accent);
+        font-size: 14px;
+        font-weight: 700;
+        margin-bottom: 8px;
+      }
+      a {
+        color: var(--text);
+        text-decoration: none;
+      }
+      a:hover {
+        color: var(--accent);
+      }
+      .summary {
+        color: var(--muted);
+        line-height: 1.6;
+      }
+      .footer {
+        margin-top: 24px;
+        color: var(--muted);
+        font-size: 14px;
+      }
+      .badge {
+        display: inline-block;
+        font-size: 12px;
+        color: var(--muted);
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        padding: 4px 10px;
+        margin-right: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <h1>{{ site_title }}</h1>
+      <p class="meta">
+        {{ description or 'Curated AI news from the last 24 hours.' }}<br>
+        Updated: {{ generated_at.strftime('%Y-%m-%d %H:%M UTC') }}
+      </p>
+
+      {% if entries %}
+        {% for entry in entries %}
+          <article class="card">
+            <div class="source">{{ entry.source }}</div>
+            <h2><a href="{{ entry.link }}" target="_blank" rel="noreferrer">{{ entry.title }}</a></h2>
+            <div>
+              <span class="badge">{{ entry.published.strftime('%Y-%m-%d %H:%M UTC') }}</span>
+            </div>
+            <p class="summary">{{ entry.summary }}</p>
+          </article>
+        {% endfor %}
+      {% else %}
+        <article class="card">
+          <h2>No fresh articles yet</h2>
+          <p class="summary">The workflow ran successfully, but none of the configured feeds had items in the lookback window.</p>
+        </article>
+      {% endif %}
+
+      <p class="footer">
+        JSON feed: <a href="{{ (base_url or '') ~ 'news.json' }}">news.json</a>
+      </p>
+    </main>
+  </body>
+</html>

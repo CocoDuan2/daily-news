@@ -1,0 +1,28 @@
+site:
+  title: Daily AI News
+  description: Curated AI news from the last 24 hours.
+  base_url: https://cocoduan2.github.io/daily-news/
+  lookback_hours: 24
+  max_items: 30
+
+sources:
+  - name: OpenAI
+    url: https://openai.com/news/rss.xml
+  - name: Anthropic
+    url: https://www.anthropic.com/news/rss.xml
+  - name: Google DeepMind
+    url: https://deepmind.google/discover/blog/rss.xml
+  - name: Google AI Blog
+    url: https://blog.google/technology/ai/rss/
+  - name: Hugging Face
+    url: https://huggingface.co/blog/feed.xml
+  - name: Meta AI
+    url: https://ai.meta.com/blog/rss/
+  - name: NVIDIA Blog AI
+    url: https://blogs.nvidia.com/blog/category/ai/feed/
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+  - name: The Verge AI
+    url: https://www.theverge.com/ai-artificial-intelligence/rss/index.xml
+  - name: MIT Technology Review AI
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed

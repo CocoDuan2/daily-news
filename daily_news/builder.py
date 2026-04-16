@@ -1,15 +1,29 @@
 from __future__ import annotations
 
 import json
+import os
 import re
+from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
+from urllib.request import Request, urlopen
 
 import feedparser
 from jinja2 import Environment, FileSystemLoader, select_autoescape
+
+
+OFFICIAL_SOURCES = {
+    "OpenAI",
+    "Anthropic",
+    "Google DeepMind",
+    "Google AI Blog",
+    "Meta AI",
+    "Hugging Face",
+    "NVIDIA Blog AI",
+}
 
 
 def load_config(path: str | Path) -> dict[str, Any]:
@@ -63,20 +77,73 @@ def _parse_scalar(value: str) -> Any:
 def fetch_entries(sources: list[dict[str, str]]) -> list[dict[str, Any]]:
     entries: list[dict[str, Any]] = []
     for source in sources:
-        feed = feedparser.parse(source["url"])
-        for item in getattr(feed, "entries", []):
-            published = parse_entry_datetime(item)
-            if published is None:
-                continue
-            entries.append(
-                {
-                    "source": source["name"],
-                    "title": clean_text(item.get("title", "Untitled")),
-                    "link": item.get("link", source["url"]),
-                    "published": published,
-                    "summary": summarize_entry(item),
-                }
-            )
+        source_type = source.get("type", "rss")
+        if source_type == "rss":
+            entries.extend(fetch_rss_entries(source))
+        elif source_type == "tavily":
+            entries.extend(fetch_tavily_entries(source))
+    return entries
+
+
+def fetch_rss_entries(source: dict[str, str]) -> list[dict[str, Any]]:
+    entries: list[dict[str, Any]] = []
+    feed = feedparser.parse(source["url"])
+    for item in getattr(feed, "entries", []):
+        published = parse_entry_datetime(item)
+        if published is None:
+            continue
+        entries.append(
+            {
+                "source": source["name"],
+                "title": clean_text(item.get("title", "Untitled")),
+                "link": item.get("link", source["url"]),
+                "published": published,
+                "summary": summarize_entry(item),
+            }
+        )
+    return entries
+
+
+def fetch_tavily_entries(source: dict[str, Any]) -> list[dict[str, Any]]:
+    api_key = os.environ.get("TAVILY_API_KEY")
+    if not api_key:
+        return []
+
+    request_body = {
+        "query": source.get("query", "AI news"),
+        "topic": source.get("topic", "news"),
+        "max_results": int(source.get("max_results", 10)),
+        "search_depth": source.get("search_depth", "advanced"),
+        "include_answer": False,
+        "include_raw_content": False,
+    }
+    request = Request(
+        "https://api.tavily.com/search",
+        data=json.dumps(request_body).encode("utf-8"),
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {api_key}",
+        },
+        method="POST",
+    )
+
+    with urlopen(request, timeout=20) as response:
+        payload = json.loads(response.read().decode("utf-8"))
+
+    entries: list[dict[str, Any]] = []
+    for item in payload.get("results", []):
+        published = parse_tavily_datetime(item.get("published_date"))
+        if published is None:
+            continue
+        entries.append(
+            {
+                "source": source["name"],
+                "title": clean_text(item.get("title", "Untitled")),
+                "link": item.get("url", ""),
+                "published": published,
+                "summary": clean_text(item.get("content", "") or item.get("title", "")),
+            }
+        )
     return entries
 
 
@@ -97,6 +164,19 @@ def parse_entry_datetime(item: dict[str, Any]) -> datetime | None:
         if raw:
             return datetime(*raw[:6], tzinfo=timezone.utc)
     return None
+
+
+def parse_tavily_datetime(raw: str | None) -> datetime | None:
+    if not raw:
+        return None
+    normalized = raw.replace("Z", "+00:00")
+    try:
+        parsed = datetime.fromisoformat(normalized)
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
 
 
 def clean_text(value: str) -> str:
@@ -150,6 +230,41 @@ def canonical_key(entry: dict[str, Any]) -> str:
     return normalized_title
 
 
+def group_entries_by_day(entries: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for entry in sorted(entries, key=lambda item: item["published"], reverse=True):
+        grouped[entry["published"].strftime("%Y-%m-%d")].append(entry)
+    return [
+        {"date": day, "entries": day_entries}
+        for day, day_entries in sorted(grouped.items(), reverse=True)
+    ]
+
+
+def select_featured_entries(entries: list[dict[str, Any]], limit: int = 5) -> list[dict[str, Any]]:
+    ranked = sorted(
+        entries,
+        key=lambda item: (
+            0 if item["source"] in OFFICIAL_SOURCES else 1,
+            -int(item["published"].timestamp()),
+        ),
+    )
+    return ranked[:limit]
+
+
+def build_news_payload(entries: list[dict[str, Any]], generated_at: datetime) -> dict[str, Any]:
+    return {
+        "generated_at": generated_at.isoformat(),
+        "count": len(entries),
+        "items": [
+            {
+                **entry,
+                "published": entry["published"].isoformat(),
+            }
+            for entry in entries
+        ],
+    }
+
+
 def render_site(
     *,
     entries: list[dict[str, Any]],
@@ -161,33 +276,54 @@ def render_site(
 ) -> None:
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
+    archive_path = output_path / "archive"
+    archive_path.mkdir(parents=True, exist_ok=True)
 
     template_env = Environment(
         loader=FileSystemLoader(Path(__file__).resolve().parent.parent / "templates"),
         autoescape=select_autoescape(["html", "xml"]),
     )
-    template = template_env.get_template("index.html.j2")
+    index_template = template_env.get_template("index.html.j2")
+    archive_template = template_env.get_template("archive.html.j2")
+    archive_index_template = template_env.get_template("archive_index.html.j2")
 
-    html = template.render(
+    all_grouped = group_entries_by_day(entries)
+    today_key = generated_at.strftime("%Y-%m-%d")
+    today_entries = next((group["entries"] for group in all_grouped if group["date"] == today_key), [])
+    featured_entries = select_featured_entries(today_entries)
+    remaining_entries = [entry for entry in today_entries if entry not in featured_entries]
+
+    home_html = index_template.render(
         site_title=site_title,
         generated_at=generated_at,
-        entries=entries,
-        base_url=base_url,
         description=description,
+        today_key=today_key,
+        featured_entries=featured_entries,
+        remaining_entries=remaining_entries,
+        archive_url=(base_url or "") + "archive/",
+        json_url=(base_url or "") + "news.json",
     )
-    (output_path / "index.html").write_text(html, encoding="utf-8")
+    (output_path / "index.html").write_text(home_html, encoding="utf-8")
 
-    payload = {
-        "generated_at": generated_at.isoformat(),
-        "count": len(entries),
-        "items": [
-            {
-                **entry,
-                "published": entry["published"].isoformat(),
-            }
-            for entry in entries
-        ],
-    }
+    archive_index_html = archive_index_template.render(
+        site_title=site_title,
+        generated_at=generated_at,
+        grouped_entries=all_grouped,
+        home_url=base_url or "../",
+    )
+    (archive_path / "index.html").write_text(archive_index_html, encoding="utf-8")
+
+    for group in all_grouped:
+        day_html = archive_template.render(
+            site_title=site_title,
+            day=group["date"],
+            entries=group["entries"],
+            home_url=(base_url or "../"),
+            archive_index_url=(base_url or "") + "archive/",
+        )
+        (archive_path / f"{group['date']}.html").write_text(day_html, encoding="utf-8")
+
+    payload = build_news_payload(today_entries, generated_at)
     (output_path / "news.json").write_text(
         json.dumps(payload, ensure_ascii=False, indent=2),
         encoding="utf-8",
@@ -202,14 +338,14 @@ def build_site(config_path: str | Path = "sources.yaml") -> list[dict[str, Any]]
     final_entries = dedupe_and_filter_entries(
         entries,
         now=generated_at,
-        lookback_hours=site_config.get("lookback_hours", 24),
-        max_items=site_config.get("max_items", 30),
+        lookback_hours=site_config.get("lookback_hours", 48),
+        max_items=site_config.get("max_items", 60),
     )
     render_site(
         entries=final_entries,
         generated_at=generated_at,
         output_dir="docs",
-        site_title=site_config.get("title", "Daily AI News"),
+        site_title=site_config.get("title", "每日 AI 资讯"),
         base_url=site_config.get("base_url", ""),
         description=site_config.get("description", ""),
     )

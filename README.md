@@ -1,15 +1,17 @@
-# Daily AI News
+# 每日 AI 资讯
 
-A first-version AI news site that refreshes daily via GitHub Actions and publishes to GitHub Pages.
+一个每天自动刷新并发布到 GitHub Pages 的 AI 新闻聚合站。
 
-What it does
-- Pulls a default set of AI-focused RSS/Atom feeds
-- Keeps articles from the last 24 hours
-- Removes duplicates by title/link
-- Generates a static site at `docs/index.html`
-- Exports structured data at `docs/news.json`
+功能
+- 抓取默认 AI RSS/Atom 新闻源
+- 保留最近 48 小时的新闻，便于首页展示当天并兼顾归档
+- 按标题和链接去重
+- 首页展示“今日重点 + 今日全部 + 历史归档”
+- 生成首页 `docs/index.html`
+- 生成今日数据 `docs/news.json`
+- 生成历史归档 `docs/archive/`
 
-Default sources
+默认源
 - OpenAI
 - Anthropic
 - Google DeepMind
@@ -21,27 +23,30 @@ Default sources
 - The Verge AI
 - MIT Technology Review AI
 
-Local usage
-1. Install dependencies
+本地使用
+1. 安装依赖
    `python3 -m pip install -r requirements.txt`
-2. Generate the site
+2. 生成站点
    `python3 generate_news.py`
-3. Run tests
+3. 运行测试
    `python3 -m pytest -q`
 
-Repository layout
-- `generate_news.py`: entrypoint
-- `daily_news/builder.py`: fetch, filter, render logic
-- `sources.yaml`: site config and feed list
-- `templates/index.html.j2`: HTML template
-- `docs/`: generated GitHub Pages output
-- `.github/workflows/daily-news.yml`: scheduled workflow
+仓库结构
+- `generate_news.py`: 生成入口
+- `daily_news/builder.py`: 抓取、过滤、分组、渲染逻辑
+- `sources.yaml`: 站点配置和新闻源
+- `templates/index.html.j2`: 中文首页模板
+- `templates/archive_index.html.j2`: 历史归档索引
+- `templates/archive.html.j2`: 单日归档页
+- `docs/`: GitHub Pages 生成输出
+- `.github/workflows/daily-news.yml`: 定时工作流
 
 GitHub Pages
-- In repo Settings -> Pages, set Source to `GitHub Actions`
-- The workflow will regenerate and deploy the site every day
+- 在仓库 Settings -> Pages 中把 Source 设为 `GitHub Actions`
+- 工作流每天会重新生成并部署站点
 
-Customize later
-- Add or remove feeds in `sources.yaml`
-- Change title, description, item limit, and lookback window in `sources.yaml`
-- Add AI summaries in a later version with an API key
+后续可继续增强
+- 为每条新闻生成中文标题
+- 为每条新闻生成中文摘要
+- 增加按来源筛选
+- 增加周报/月报页面

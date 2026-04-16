@@ -1,9 +1,9 @@
 site:
-  title: Daily AI News
-  description: Curated AI news from the last 24 hours.
+  title: 每日 AI 资讯
+  description: 每天自动更新的 AI 新闻聚合站。
   base_url: https://cocoduan2.github.io/daily-news/
-  lookback_hours: 24
-  max_items: 30
+  lookback_hours: 48
+  max_items: 60
 
 sources:
   - name: OpenAI
@@ -26,3 +26,8 @@ sources:
     url: https://www.theverge.com/ai-artificial-intelligence/rss/index.xml
   - name: MIT Technology Review AI
     url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+  - name: Tavily AI News
+    type: tavily
+    query: AI news OR LLM OR OpenAI OR Anthropic OR Gemini
+    topic: news
+    max_results: 10

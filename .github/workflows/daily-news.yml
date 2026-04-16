@@ -32,6 +32,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Generate site
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
         run: python generate_news.py
 
       - name: Upload Pages artifact

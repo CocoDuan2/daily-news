@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="zh-CN">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,99 +9,119 @@
         color-scheme: light dark;
         --bg: #0b1020;
         --panel: #121933;
+        --panel-soft: rgba(18, 25, 51, 0.72);
         --text: #e9eefc;
         --muted: #a8b3cf;
         --accent: #74c0fc;
         --border: #253056;
       }
+      * { box-sizing: border-box; }
       body {
         margin: 0;
         font-family: Inter, ui-sans-serif, system-ui, -apple-system, sans-serif;
         background: linear-gradient(180deg, #0b1020 0%, #121933 100%);
         color: var(--text);
       }
-      .container {
-        max-width: 960px;
-        margin: 0 auto;
-        padding: 40px 20px 80px;
+      a { color: var(--text); text-decoration: none; }
+      a:hover { color: var(--accent); }
+      .container { max-width: 1120px; margin: 0 auto; padding: 40px 20px 80px; }
+      .hero { margin-bottom: 28px; }
+      .eyebrow {
+        display: inline-block; font-size: 12px; color: var(--accent); border: 1px solid var(--border);
+        border-radius: 999px; padding: 4px 10px; margin-bottom: 12px;
       }
-      h1 {
-        margin-bottom: 8px;
+      .hero h1 { margin: 0 0 10px; font-size: 40px; }
+      .meta { color: var(--muted); line-height: 1.7; }
+      .topbar { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 18px; }
+      .pill {
+        display: inline-block; font-size: 13px; color: var(--muted); border: 1px solid var(--border);
+        border-radius: 999px; padding: 6px 12px;
       }
-      .meta {
-        color: var(--muted);
-        margin-bottom: 32px;
-      }
+      section { margin-top: 34px; }
+      section h2 { margin-bottom: 14px; }
+      .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
       .card {
-        background: rgba(18, 25, 51, 0.88);
-        border: 1px solid var(--border);
-        border-radius: 16px;
-        padding: 20px;
-        margin-bottom: 16px;
-        box-shadow: 0 16px 40px rgba(0, 0, 0, 0.18);
+        background: rgba(18, 25, 51, 0.88); border: 1px solid var(--border); border-radius: 18px;
+        padding: 20px; box-shadow: 0 16px 40px rgba(0, 0, 0, 0.18);
       }
-      .source {
-        color: var(--accent);
-        font-size: 14px;
-        font-weight: 700;
-        margin-bottom: 8px;
+      .card.featured { background: linear-gradient(180deg, rgba(18,25,51,0.96), rgba(24,35,69,0.96)); }
+      .source { color: var(--accent); font-size: 14px; font-weight: 700; margin-bottom: 8px; }
+      .summary { color: var(--muted); line-height: 1.7; }
+      .time { color: var(--muted); font-size: 13px; margin-top: 12px; }
+      .list { display: grid; gap: 14px; }
+      .list-item {
+        background: var(--panel-soft); border: 1px solid var(--border); border-radius: 16px;
+        padding: 16px 18px;
       }
-      a {
-        color: var(--text);
-        text-decoration: none;
+      .archive-link {
+        display: inline-flex; align-items: center; gap: 6px; color: var(--accent); font-weight: 600;
       }
-      a:hover {
-        color: var(--accent);
-      }
-      .summary {
-        color: var(--muted);
-        line-height: 1.6;
-      }
-      .footer {
-        margin-top: 24px;
-        color: var(--muted);
-        font-size: 14px;
-      }
-      .badge {
-        display: inline-block;
-        font-size: 12px;
-        color: var(--muted);
-        border: 1px solid var(--border);
-        border-radius: 999px;
-        padding: 4px 10px;
-        margin-right: 8px;
-      }
+      .empty { color: var(--muted); }
+      .footer { margin-top: 32px; color: var(--muted); font-size: 14px; }
     </style>
   </head>
   <body>
     <main class="container">
-      <h1>{{ site_title }}</h1>
-      <p class="meta">
-        {{ description or 'Curated AI news from the last 24 hours.' }}<br>
-        Updated: {{ generated_at.strftime('%Y-%m-%d %H:%M UTC') }}
-      </p>
+      <section class="hero">
+        <div class="eyebrow">AI Daily Brief</div>
+        <h1>{{ site_title }}</h1>
+        <div class="meta">
+          {{ description or '每天自动更新的 AI 新闻聚合站。' }}<br>
+          今日日期：{{ today_key }}<br>
+          更新时间：{{ generated_at.strftime('%Y-%m-%d %H:%M UTC') }}
+        </div>
+        <div class="topbar">
+          <span class="pill">今日重点 {{ featured_entries|length }} 条</span>
+          <span class="pill">今日全部 {{ featured_entries|length + remaining_entries|length }} 条</span>
+          <a class="pill" href="{{ archive_url }}">查看历史归档</a>
+          <a class="pill" href="{{ json_url }}">查看 JSON 数据</a>
+        </div>
+      </section>
 
-      {% if entries %}
-        {% for entry in entries %}
-          <article class="card">
-            <div class="source">{{ entry.source }}</div>
-            <h2><a href="{{ entry.link }}" target="_blank" rel="noreferrer">{{ entry.title }}</a></h2>
-            <div>
-              <span class="badge">{{ entry.published.strftime('%Y-%m-%d %H:%M UTC') }}</span>
-            </div>
-            <p class="summary">{{ entry.summary }}</p>
-          </article>
-        {% endfor %}
-      {% else %}
-        <article class="card">
-          <h2>No fresh articles yet</h2>
-          <p class="summary">The workflow ran successfully, but none of the configured feeds had items in the lookback window.</p>
-        </article>
-      {% endif %}
+      <section>
+        <h2>今日重点</h2>
+        {% if featured_entries %}
+          <div class="grid">
+            {% for entry in featured_entries %}
+              <article class="card featured">
+                <div class="source">{{ entry.source }}</div>
+                <h3><a href="{{ entry.link }}" target="_blank" rel="noreferrer">{{ entry.title }}</a></h3>
+                <p class="summary">{{ entry.summary }}</p>
+                <div class="time">{{ entry.published.strftime('%Y-%m-%d %H:%M UTC') }}</div>
+              </article>
+            {% endfor %}
+          </div>
+        {% else %}
+          <article class="card"><p class="empty">今天还没有抓到可展示的新闻。</p></article>
+        {% endif %}
+      </section>
 
-      <p class="footer">
-        JSON feed: <a href="{{ (base_url or '') ~ 'news.json' }}">news.json</a>
-      </p>
+      <section>
+        <h2>今日全部</h2>
+        {% if remaining_entries %}
+          <div class="list">
+            {% for entry in remaining_entries %}
+              <article class="list-item">
+                <div class="source">{{ entry.source }}</div>
+                <h3><a href="{{ entry.link }}" target="_blank" rel="noreferrer">{{ entry.title }}</a></h3>
+                <p class="summary">{{ entry.summary }}</p>
+                <div class="time">{{ entry.published.strftime('%Y-%m-%d %H:%M UTC') }}</div>
+              </article>
+            {% endfor %}
+          </div>
+        {% elif featured_entries %}
+          <article class="card"><p class="empty">今天的新闻都已展示在“今日重点”中。</p></article>
+        {% else %}
+          <article class="card"><p class="empty">暂无更多内容。</p></article>
+        {% endif %}
+      </section>
+
+      <section>
+        <h2>历史归档</h2>
+        <a class="archive-link" href="{{ archive_url }}">进入历史归档页面</a>
+      </section>
+
+      <p class="footer">数据接口：<a href="{{ json_url }}">news.json</a></p>
     </main>
   </body>
 </html>

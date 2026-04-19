@@ -1,76 +1,34 @@
 {
-  "generated_at": "2026-04-18T03:48:59.713312+00:00",
-  "count": 10,
+  "generated_at": "2026-04-19T04:15:25.935291+00:00",
+  "count": 4,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-      "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-      "published": "2026-04-17T22:34:02+00:00",
-      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "published": "2026-04-18T21:37:15+00:00",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "published": "2026-04-17T20:38:17+00:00",
-      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
+      "title": "AI chip startup Cerebras files for IPO",
+      "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "published": "2026-04-18T19:19:11+00:00",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "published": "2026-04-17T19:17:26+00:00",
-      "summary": "Returning backers a16z and Thrive are expected to lead the round."
+      "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+      "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "published": "2026-04-18T14:56:48+00:00",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration."
     },
     {
       "source": "TechCrunch AI",
-      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-      "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "published": "2026-04-17T18:42:45+00:00",
-      "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
-      "published": "2026-04-17T16:17:55+00:00",
-      "summary": "Building a Fast Multilingual OCR Model with Synthetic Data"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "published": "2026-04-17T15:57:40+00:00",
-      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "published": "2026-04-17T15:00:00+00:00",
-      "summary": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily."
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "7 ways to travel smarter this summer, with help from Google",
-      "link": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-      "published": "2026-04-17T14:00:00+00:00",
-      "summary": "Illustration showing a person with a Pixel phone in a beach town farmers' market by the water"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Are we tokenmaxxing our way to nowhere?",
-      "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-      "published": "2026-04-17T13:00:00+00:00",
-      "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "How robots learn: A brief, contemporary history",
-      "link": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-      "published": "2026-04-17T10:00:00+00:00",
-      "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end…"
+      "title": "The App Store is booming again, and AI may be why",
+      "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "published": "2026-04-18T13:00:00+00:00",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom."
     }
   ]
 }

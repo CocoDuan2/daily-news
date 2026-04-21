@@ -1,34 +1,13 @@
 {
-  "generated_at": "2026-04-20T04:21:00.762919+00:00",
-  "count": 4,
+  "generated_at": "2026-04-21T04:12:47.781878+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s existential questions",
-      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "published": "2026-04-19T21:24:06+00:00",
-      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The 12-month window",
-      "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "published": "2026-04-19T19:30:00+00:00",
-      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-      "published": "2026-04-19T16:30:00+00:00",
-      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\""
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-      "published": "2026-04-19T16:01:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+      "source": "Hugging Face",
+      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
+      "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
+      "published": "2026-04-21T00:40:10+00:00",
+      "summary": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas"
     }
   ]
 }

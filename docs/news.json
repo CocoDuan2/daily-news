@@ -1,195 +1,153 @@
 {
-  "generated_at": "2026-04-22T04:08:47.700168+00:00",
-  "count": 27,
+  "generated_at": "2026-04-23T04:13:50.983557+00:00",
+  "count": 21,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-      "published": "2026-04-21T23:45:21+00:00",
-      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
+      "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+      "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "published": "2026-04-22T23:56:52+00:00",
+      "summary": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-      "published": "2026-04-21T23:26:45+00:00",
-      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
+      "title": "Google updates Workspace to make AI your new office intern",
+      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "published": "2026-04-22T22:44:26+00:00",
+      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system."
     },
     {
       "source": "TechCrunch AI",
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-      "published": "2026-04-21T22:58:22+00:00",
-      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competi…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "10 Things That Matter in AI Right Now",
-      "link": "https://www.technologyreview.com/2026/04/21/1135643/10-ai-artificial-intelligence-trends-technologies-research-2026/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "10 Things That Matter in AI Right Now"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "LLMs+",
-      "link": "https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "When ChatGPT launched as an experimental prototype in late 2022, OpenAI’s chatbot became an everyday everything app for hundreds of millions of people. LLMs like ChatGPT were the new future: The entire tech industry was…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Supercharged scams",
-      "link": "https://www.technologyreview.com/2026/04/21/1135647/supercharged-scams-ai-artificial-intelligence/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "When ChatGPT was released to the public in late 2022, it opened people’s eyes to how easily generative AI could churn out vast amounts of human-seeming text from simple prompts. This quickly caught the attention of crim…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "World models",
-      "link": "https://www.technologyreview.com/2026/04/21/1135650/world-models-ai-artificial-intelligence/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "AI systems have already gained impressive mastery over the digital world, but the physical world is still humanity’s domain. As it turns out, building an AI system that can compose a novel or code an app is far easier t…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Weaponized deepfakes",
-      "link": "https://www.technologyreview.com/2026/04/21/1135652/weaponized-deepfakes-ai-artificial-intelligence/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "For years, experts have warned that deepfakes—AI-generated videos, images, or audio recordings of people doing or saying things they haven’t actually done in real life—could be deployed in malicious ways.&#160; These da…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Agent orchestration",
-      "link": "https://www.technologyreview.com/2026/04/21/1135654/agent-orchestration-ai-artificial-intelligence/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "When people say AI will speed up drug development or fear that it will bring about mass layoffs, what they have in mind—whether they know it or not—are AI agents. ChatGPT made large language models a mass consumer produ…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Humanoid data",
-      "link": "https://www.technologyreview.com/2026/04/21/1135656/humanoid-data-robot-training-ai-artificial-intelligence/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "I was recently invited to join an app that would pay me cryptocurrency to film myself doing tasks like putting food into a bowl, microwaving it, and then taking it out. Another website suggested I try a new game in whic…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "China’s open-source bet",
-      "link": "https://www.technologyreview.com/2026/04/21/1135658/china-open-source-models-ai-artificial-intelligence/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "Silicon Valley AI companies follow a familiar playbook: Keep the secret sauce behind an API, and charge for every drop. China’s leading AI labs are playing a different game: They ship models as downloadable “open-weight…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Artificial scientists",
-      "link": "https://www.technologyreview.com/2026/04/21/1135663/artificial-scientists-ai-artificial-intelligence/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "AI companies frequently invoke the possibility of AI-enabled scientific discovery as a justification for their existence: If the technology eventually cures cancer and solves climate change, then all the carbon emission…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Resistance",
-      "link": "https://www.technologyreview.com/2026/04/21/1135665/resistance-ai-artificial-intelligence-backlash-protests/",
-      "published": "2026-04-21T20:45:00+00:00",
-      "summary": "Turns out not everyone wants to live in the future that AI companies are building. People from all walks of life are speaking out against rising electricity bills from data centers, disappearing jobs, chatbots’ impact o…"
+      "title": "Hands on with X’s new AI-powered custom feeds",
+      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "published": "2026-04-22T22:25:53+00:00",
+      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
-      "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-      "published": "2026-04-21T20:23:24+00:00",
-      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too."
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "published": "2026-04-22T19:51:51+00:00",
+      "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition."
     },
     {
       "source": "TechCrunch AI",
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "published": "2026-04-21T19:11:29+00:00",
-      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain."
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "published": "2026-04-22T18:39:27+00:00",
+      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now."
     },
     {
       "source": "TechCrunch AI",
-      "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-      "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "published": "2026-04-21T19:00:00+00:00",
-      "summary": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years."
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "published": "2026-04-22T17:30:00+00:00",
+      "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-      "published": "2026-04-21T18:51:52+00:00",
-      "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than it actually is."
+      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "published": "2026-04-22T16:58:27+00:00",
+      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-      "published": "2026-04-21T17:11:01+00:00",
-      "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-      "published": "2026-04-21T16:00:00+00:00",
-      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-      "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-      "published": "2026-04-21T15:24:29+00:00",
-      "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "YouTube expands its AI likeness detection technology to celebrities",
-      "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-      "published": "2026-04-21T15:02:06+00:00",
-      "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes."
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
-      "link": "https://blog.google/products/ads-commerce/ads-advisor-google-ads/",
-      "published": "2026-04-21T14:30:00+00:00",
-      "summary": "The Road to Google Marketing Live graphic. May 20, 2026, 9am PT. White background with colorful bottom gradient."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "GRAI believes AI can make music more social, not replace artists",
-      "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-      "published": "2026-04-21T13:00:00+00:00",
-      "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch."
+      "title": "AI Overviews are coming to your Gmail at work",
+      "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "published": "2026-04-22T16:46:10+00:00",
+      "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails."
     },
     {
       "source": "Hugging Face",
-      "title": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard",
-      "link": "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
-      "published": "2026-04-21T10:09:58+00:00",
-      "summary": "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas",
-      "link": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
-      "published": "2026-04-21T00:40:10+00:00",
-      "summary": "How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas"
+      "title": "Gemma 4 VLA Demo on Jetson Orin Nano Super",
+      "link": "https://huggingface.co/blog/nvidia/gemma4",
+      "published": "2026-04-22T15:40:50+00:00",
+      "summary": "Gemma 4 VLA Demo on Jetson Orin Nano Super"
     },
     {
       "source": "OpenAI",
-      "title": "Scaling Codex to enterprises worldwide",
-      "link": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-      "published": "2026-04-21T00:00:00+00:00",
-      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU."
+      "title": "Making ChatGPT better for clinicians",
+      "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "published": "2026-04-22T15:00:00+00:00",
+      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research."
     },
     {
-      "source": "Hugging Face",
-      "title": "AI and the Future of Cybersecurity: Why Openness Matters",
-      "link": "https://huggingface.co/blog/cybersecurity-openness",
-      "published": "2026-04-21T00:00:00+00:00",
-      "summary": "AI and the Future of Cybersecurity: Why Openness Matters"
+      "source": "TechCrunch AI",
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "published": "2026-04-22T14:22:10+00:00",
+      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
+      "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "published": "2026-04-22T13:00:00+00:00",
+      "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules."
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "published": "2026-04-22T12:00:00+00:00",
+      "summary": "The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "published": "2026-04-22T12:00:00+00:00",
+      "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google Maps is about to get a big dose of AI",
+      "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+      "published": "2026-04-22T12:00:00+00:00",
+      "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The most interesting startups showcased at Google Cloud Next 2026",
+      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "published": "2026-04-22T12:00:00+00:00",
+      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "title": "AI needs a strong data fabric to deliver business value",
+      "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
+      "published": "2026-04-22T10:05:06+00:00",
+      "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and…"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing workspace agents in ChatGPT",
+      "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Workspace agents",
+      "link": "https://openai.com/academy/workspace-agents",
+      "published": "2026-04-22T10:00:00+00:00",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing OpenAI Privacy Filter",
+      "link": "https://openai.com/index/introducing-openai-privacy-filter",
+      "published": "2026-04-22T00:00:00+00:00",
+      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy"
     }
   ]
 }

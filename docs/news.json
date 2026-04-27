@@ -1,48 +1,20 @@
 {
-  "generated_at": "2026-04-26T04:24:04.422461+00:00",
-  "count": 6,
+  "generated_at": "2026-04-27T04:31:37.995656+00:00",
+  "count": 2,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "published": "2026-04-25T21:43:37+00:00",
-      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
+      "source": "OpenAI",
+      "title": "Our principles",
+      "link": "https://openai.com/index/our-principles",
+      "published": "2026-04-26T16:00:00+00:00",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Maine’s governor vetoes data center moratorium",
-      "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "published": "2026-04-25T20:57:08+00:00",
-      "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "published": "2026-04-25T17:17:56+00:00",
-      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why Cohere is merging with Aleph Alpha",
-      "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "published": "2026-04-25T16:00:00+00:00",
-      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterpr…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why Tokyo is the most important tech destination of 2026",
-      "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "published": "2026-04-25T15:03:00+00:00",
-      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globall…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-      "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-      "published": "2026-04-25T15:00:00+00:00",
-      "summary": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy."
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "published": "2026-04-26T15:30:00+00:00",
+      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
     }
   ]
 }

@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-04-27T04:31:37.995656+00:00",
-  "count": 2,
+  "generated_at": "2026-04-28T04:34:55.888292+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "OpenAI",
-      "title": "Our principles",
-      "link": "https://openai.com/index/our-principles",
-      "published": "2026-04-26T16:00:00+00:00",
-      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-      "published": "2026-04-26T15:30:00+00:00",
-      "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+      "source": "Hugging Face",
+      "title": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "link": "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "published": "2026-04-28T00:28:13+00:00",
+      "summary": "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI"
     }
   ]
 }

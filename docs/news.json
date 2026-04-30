@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-04-29T04:30:54.098027+00:00",
-  "count": 1,
+  "generated_at": "2026-04-30T04:33:27.806834+00:00",
+  "count": 3,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-      "published": "2026-04-29T00:40:16+00:00",
-      "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath."
+      "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+      "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "published": "2026-04-30T03:58:22+00:00",
+      "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon’s cloud business is surging — and so is its capital spending",
+      "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+      "published": "2026-04-30T00:14:23+00:00",
+      "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "published": "2026-04-30T00:07:15+00:00",
+      "summary": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter."
     }
   ]
 }

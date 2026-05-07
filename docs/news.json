@@ -1,139 +1,167 @@
 {
-  "generated_at": "2026-05-06T04:34:54.549627+00:00",
-  "count": 19,
+  "generated_at": "2026-05-07T04:35:22.836165+00:00",
+  "count": 23,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "published": "2026-05-05T23:50:10+00:00",
-      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw."
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "published": "2026-05-06T21:57:56+00:00",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-      "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-      "published": "2026-05-05T22:57:41+00:00",
-      "summary": "Altara’s AI aims to diagnose failures and help speed up R&#038;D by unifying data siloed across spreadsheets and legacy systems."
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "published": "2026-05-06T21:43:24+00:00",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-      "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "published": "2026-05-05T20:56:41+00:00",
-      "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks."
+      "title": "Is xAI a neocloud now?",
+      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "published": "2026-05-06T21:32:55+00:00",
+      "summary": "xAI's real business may be more about building data centers than training AI models."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "published": "2026-05-06T19:06:55+00:00",
+      "summary": "vLLM V0 to V1: Correctness Before Corrections in RL"
     },
     {
       "source": "TechCrunch AI",
-      "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
-      "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-      "published": "2026-05-05T20:06:40+00:00",
-      "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken I…"
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "published": "2026-05-06T18:23:54+00:00",
+      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-      "published": "2026-05-05T17:46:10+00:00",
-      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license."
+      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+      "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "published": "2026-05-06T17:23:08+00:00",
+      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal."
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "published": "2026-05-05T17:00:00+00:00",
-      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor."
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "published": "2026-05-06T17:20:34+00:00",
+      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and…"
     },
     {
       "source": "Google AI Blog",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "published": "2026-05-05T16:00:00+00:00",
-      "summary": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition."
+      "title": "5 gardening tips you can try right in Search",
+      "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "published": "2026-05-06T16:00:00+00:00",
+      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass."
     },
     {
       "source": "TechCrunch AI",
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-      "published": "2026-05-05T15:49:55+00:00",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack."
+      "title": "Google updates AI search to include quotes from Reddit and other sources",
+      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "published": "2026-05-06T15:49:39+00:00",
+      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "published": "2026-05-05T15:31:37+00:00",
-      "summary": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users."
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "published": "2026-05-06T15:46:38+00:00",
+      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "link": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-      "published": "2026-05-05T14:27:00+00:00",
-      "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout."
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+      "published": "2026-05-06T15:27:36+00:00",
+      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\""
     },
     {
       "source": "TechCrunch AI",
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-      "link": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-      "published": "2026-05-05T14:20:50+00:00",
-      "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface."
+      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "published": "2026-05-06T15:12:49+00:00",
+      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
     },
     {
       "source": "TechCrunch AI",
-      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-      "link": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-      "published": "2026-05-05T14:07:47+00:00",
-      "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned."
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+      "published": "2026-05-06T15:00:00+00:00",
+      "summary": "Ethos says it is onboarding 35,000 experts per week."
     },
     {
       "source": "TechCrunch AI",
-      "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
-      "link": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
-      "published": "2026-05-05T14:00:00+00:00",
-      "summary": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to…"
+      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "link": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+      "published": "2026-05-06T14:30:00+00:00",
+      "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live."
     },
     {
       "source": "TechCrunch AI",
-      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "link": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-      "published": "2026-05-05T13:18:50+00:00",
-      "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India."
+      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+      "published": "2026-05-06T14:00:00+00:00",
+      "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. P…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI boom pushes Samsung to $1T",
+      "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "published": "2026-05-06T13:54:09+00:00",
+      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
+      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "published": "2026-05-06T06:47:12+00:00",
+      "summary": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for. Quantum is just a new type of compute,” said Sarlin, who is adamant that QuTwo is an AI company."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
+      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "published": "2026-05-06T06:34:32+00:00",
+      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt."
     },
     {
       "source": "OpenAI",
-      "title": "GPT-5.5 Instant System Card",
-      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "GPT-5.5 Instant System Card"
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT."
     },
     {
       "source": "OpenAI",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "link": "https://openai.com/index/gpt-5-5-instant",
-      "published": "2026-05-05T10:00:00+00:00",
-      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "link": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "published": "2026-05-05T09:00:00+00:00",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative governme…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-      "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-      "published": "2026-05-05T03:31:54+00:00",
-      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "link": "https://openai.com/index/singular-bank",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up."
     },
     {
       "source": "OpenAI",
-      "title": "New ways to buy ChatGPT ads",
-      "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "published": "2026-05-05T00:00:00+00:00",
-      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads."
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "link": "https://openai.com/index/uber",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How frontier enterprises are building an AI advantage",
+      "link": "https://openai.com/index/introducing-b2b-signals",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "published": "2026-05-06T00:00:00+00:00",
+      "summary": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard"
     }
   ]
 }

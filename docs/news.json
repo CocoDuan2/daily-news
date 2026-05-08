@@ -1,167 +1,153 @@
 {
-  "generated_at": "2026-05-07T04:35:22.836165+00:00",
-  "count": 23,
+  "generated_at": "2026-05-08T04:17:19.341521+00:00",
+  "count": 21,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-      "published": "2026-05-06T21:57:56+00:00",
-      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails."
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "published": "2026-05-07T22:24:50+00:00",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-      "published": "2026-05-06T21:43:24+00:00",
-      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat."
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "published": "2026-05-07T21:02:11+00:00",
+      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Is xAI a neocloud now?",
-      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-      "published": "2026-05-06T21:32:55+00:00",
-      "summary": "xAI's real business may be more about building data centers than training AI models."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "link": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "published": "2026-05-06T19:06:55+00:00",
-      "summary": "vLLM V0 to V1: Correctness Before Corrections in RL"
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "published": "2026-05-07T20:20:20+00:00",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm."
     },
     {
       "source": "TechCrunch AI",
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-      "published": "2026-05-06T18:23:54+00:00",
-      "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI."
+      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "published": "2026-05-07T19:57:59+00:00",
+      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone."
     },
     {
       "source": "TechCrunch AI",
-      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-      "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-      "published": "2026-05-06T17:23:08+00:00",
-      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal."
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "published": "2026-05-07T19:21:21+00:00",
+      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligen…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "published": "2026-05-06T17:20:34+00:00",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and…"
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "5 gardening tips you can try right in Search",
-      "link": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "published": "2026-05-06T16:00:00+00:00",
-      "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass."
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "published": "2026-05-07T19:06:17+00:00",
+      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over t…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "published": "2026-05-06T15:49:39+00:00",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic."
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "published": "2026-05-07T16:05:48+00:00",
+      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-      "published": "2026-05-06T15:46:38+00:00",
-      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks."
+      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+      "link": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
+      "published": "2026-05-07T15:00:00+00:00",
+      "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major sc…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-      "published": "2026-05-06T15:27:36+00:00",
-      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\""
+      "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+      "link": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
+      "published": "2026-05-07T14:30:00+00:00",
+      "summary": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-      "published": "2026-05-06T15:12:49+00:00",
-      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
+      "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+      "link": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
+      "published": "2026-05-07T14:24:54+00:00",
+      "summary": "Self-driving has been &#8220;almost here&#8221; for over a decade. But somewhere between DARPA&#160;challenges&#160;and a handful of driverless trucks hauling freight between Dallas and Houston, Aurora&#160;co-founder a…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-      "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-      "published": "2026-05-06T15:00:00+00:00",
-      "summary": "Ethos says it is onboarding 35,000 experts per week."
+      "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "published": "2026-05-07T14:00:00+00:00",
+      "summary": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now."
     },
     {
       "source": "TechCrunch AI",
-      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
-      "link": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
-      "published": "2026-05-06T14:30:00+00:00",
-      "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-      "published": "2026-05-06T14:00:00+00:00",
-      "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. P…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI boom pushes Samsung to $1T",
-      "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
-      "published": "2026-05-06T13:54:09+00:00",
-      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "published": "2026-05-06T06:47:12+00:00",
-      "summary": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for. Quantum is just a new type of compute,” said Sarlin, who is adamant that QuTwo is an AI company."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
-      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-      "published": "2026-05-06T06:34:32+00:00",
-      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt."
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
+      "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "published": "2026-05-07T13:44:25+00:00",
+      "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage."
     },
     {
       "source": "OpenAI",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT."
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Spotify wants to become the home for AI-generated personal audio",
+      "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Spotify’s AI DJ now supports French, German, Italian, and Brazilian Portuguese",
+      "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+      "published": "2026-05-07T12:20:04+00:00",
+      "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese."
     },
     {
       "source": "OpenAI",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "link": "https://openai.com/index/singular-bank",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up."
+      "title": "Parloa builds service agents customers want to talk to",
+      "link": "https://openai.com/index/parloa",
+      "published": "2026-05-07T11:00:00+00:00",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
     },
     {
       "source": "OpenAI",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "link": "https://openai.com/index/uber",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace."
+      "title": "Advancing voice intelligence with new models in the API",
+      "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "published": "2026-05-07T10:00:00+00:00",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
+      "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "published": "2026-05-07T05:25:10+00:00",
+      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to…"
     },
     {
       "source": "OpenAI",
-      "title": "How frontier enterprises are building an AI advantage",
-      "link": "https://openai.com/index/introducing-b2b-signals",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage."
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected."
     },
     {
-      "source": "Hugging Face",
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "published": "2026-05-06T00:00:00+00:00",
-      "summary": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard"
+      "source": "OpenAI",
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Simplex rethinks software development with Codex",
+      "link": "https://openai.com/index/simplex",
+      "published": "2026-05-07T00:00:00+00:00",
+      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows."
     }
   ]
 }

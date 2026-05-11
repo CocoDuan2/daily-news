@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-05-10T04:45:21.616424+00:00",
-  "count": 1,
+  "generated_at": "2026-05-11T04:59:11.716509+00:00",
+  "count": 5,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Get ready for the whisper-filled office of the future",
+      "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "published": "2026-05-10T21:15:30+00:00",
+      "summary": "How will work setups change if we spend more and more time talking to our computers?"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "published": "2026-05-10T20:40:41+00:00",
+      "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "link": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+      "published": "2026-05-10T18:44:11+00:00",
+      "summary": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "published": "2026-05-10T15:34:25+00:00",
+      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX."
+    },
     {
       "source": "TechCrunch AI",
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",

@@ -1,153 +1,69 @@
 {
-  "generated_at": "2026-05-15T04:52:36.842008+00:00",
-  "count": 21,
+  "generated_at": "2026-05-16T04:29:53.483779+00:00",
+  "count": 9,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
-      "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-      "published": "2026-05-14T22:47:51+00:00",
-      "summary": "Here's what the biggest tech court case of the year is all about."
+      "source": "MIT Technology Review AI",
+      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "published": "2026-05-15T23:39:35+00:00",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
-      "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-      "published": "2026-05-14T21:30:44+00:00",
-      "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incenti…"
+      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "published": "2026-05-15T19:24:16+00:00",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI says Codex is coming to your phone",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "published": "2026-05-14T20:58:55+00:00",
-      "summary": "The update gives users enhanced flexibility over how they can manage their workflows."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "link": "https://openai.com/index/sea-david-chen",
-      "published": "2026-05-14T20:30:00+00:00",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia."
+      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "published": "2026-05-15T18:14:44+00:00",
+      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity."
     },
     {
       "source": "TechCrunch AI",
-      "title": "What happens when AI starts building itself?",
-      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "published": "2026-05-14T19:57:20+00:00",
-      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products."
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "published": "2026-05-15T16:00:00+00:00",
+      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-      "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-      "published": "2026-05-14T19:12:03+00:00",
-      "summary": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPhone maker."
+      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
+      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+      "published": "2026-05-15T14:00:00+00:00",
+      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-      "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-      "published": "2026-05-14T19:05:01+00:00",
-      "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality",
-      "link": "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-      "published": "2026-05-14T18:55:01+00:00",
-      "summary": "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "published": "2026-05-14T16:30:02+00:00",
-      "summary": "A year ago, it looked like this day would never happen for Cerebras."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
-      "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
-      "published": "2026-05-14T15:20:18+00:00",
-      "summary": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-      "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "published": "2026-05-14T14:01:14+00:00",
-      "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
-      "link": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-      "published": "2026-05-14T14:00:00+00:00",
-      "summary": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
-      "link": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-      "published": "2026-05-14T14:00:00+00:00",
-      "summary": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Work with Codex from anywhere",
-      "link": "https://openai.com/index/work-with-codex-from-anywhere",
-      "published": "2026-05-14T13:00:00+00:00",
-      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments."
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "published": "2026-05-15T12:19:48+00:00",
+      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware."
     },
     {
       "source": "MIT Technology Review AI",
-      "title": "Data readiness for agentic AI in financial services",
-      "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "published": "2026-05-14T13:00:00+00:00",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
-      "published": "2026-05-14T13:00:00+00:00",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party AI models, and you…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "The shock of seeing your body used in deepfake porn",
-      "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
-      "published": "2026-05-14T09:00:00+00:00",
-      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more tha…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
-      "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "published": "2026-05-14T06:05:31+00:00",
-      "summary": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
-      "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "published": "2026-05-14T05:24:39+00:00",
-      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
+      "title": "How Chinese short dramas became AI content machines",
+      "link": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "published": "2026-05-15T09:00:00+00:00",
+      "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-sh…"
     },
     {
       "source": "OpenAI",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "published": "2026-05-14T00:00:00+00:00",
-      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
+      "title": "A new personal finance experience in ChatGPT",
+      "link": "https://openai.com/index/personal-finance-chatgpt",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goals, and priorities."
     },
     {
-      "source": "Hugging Face",
-      "title": "Unlocking asynchronicity in continuous batching",
-      "link": "https://huggingface.co/blog/continuous_async",
-      "published": "2026-05-14T00:00:00+00:00",
-      "summary": "Unlocking asynchronicity in continuous batching"
+      "source": "OpenAI",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "link": "https://openai.com/index/databricks",
+      "published": "2026-05-15T00:00:00+00:00",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark."
     }
   ]
 }

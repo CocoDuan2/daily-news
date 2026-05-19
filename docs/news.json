@@ -1,34 +1,13 @@
 {
-  "generated_at": "2026-05-18T05:07:43.331937+00:00",
-  "count": 4,
+  "generated_at": "2026-05-19T05:03:21.556045+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Apple’s Siri revamp could include auto-deleting chats",
-      "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "published": "2026-05-17T20:15:00+00:00",
-      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "published": "2026-05-17T19:46:34+00:00",
-      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "published": "2026-05-17T16:32:04+00:00",
-      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-      "published": "2026-05-17T16:05:00+00:00",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
+      "source": "MIT Technology Review AI",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "published": "2026-05-19T00:53:10+00:00",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations…"
     }
   ]
 }

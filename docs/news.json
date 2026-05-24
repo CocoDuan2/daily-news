@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-05-23T04:42:49.501059+00:00",
-  "count": 1,
+  "generated_at": "2026-05-24T05:02:34.123545+00:00",
+  "count": 3,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "published": "2026-05-23T15:08:00+00:00",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "published": "2026-05-23T13:00:00+00:00",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
+    },
     {
       "source": "Hugging Face",
       "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",

@@ -1,27 +1,20 @@
 {
-  "generated_at": "2026-05-24T05:02:34.123545+00:00",
-  "count": 3,
+  "generated_at": "2026-05-25T05:21:52.175979+00:00",
+  "count": 2,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Ferrari is using IBM’s AI to create F1 superfans",
-      "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "published": "2026-05-23T15:08:00+00:00",
-      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "published": "2026-05-24T21:39:21+00:00",
+      "summary": "We're in the transition period -- all of us."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Elon Musk has given up on solar power (on Earth)",
-      "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-      "published": "2026-05-23T13:00:00+00:00",
-      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "published": "2026-05-23T00:02:03+00:00",
-      "summary": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models"
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "published": "2026-05-24T15:00:00+00:00",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety."
     }
   ]
 }

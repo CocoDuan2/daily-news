@@ -1,48 +1,62 @@
 {
-  "generated_at": "2026-05-26T05:05:07.725785+00:00",
-  "count": 6,
+  "generated_at": "2026-05-27T05:18:15.406257+00:00",
+  "count": 8,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "What ClickUp’s mass layoff tells us about the future of work",
-      "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "published": "2026-05-25T16:00:00+00:00",
-      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "published": "2026-05-26T22:32:56+00:00",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out."
     },
     {
       "source": "TechCrunch AI",
-      "title": "The pope’s AI encyclical isn’t really about AI",
-      "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-      "published": "2026-05-25T15:09:41+00:00",
-      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "published": "2026-05-26T18:33:01+00:00",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
-      "link": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
-      "published": "2026-05-25T14:30:00+00:00",
-      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now."
+      "title": "This startup is betting India’s gig economy can train the world’s robots",
+      "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "published": "2026-05-26T16:00:00+00:00",
+      "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robot…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
-      "link": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
-      "published": "2026-05-25T14:00:00+00:00",
-      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase."
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "published": "2026-05-26T14:55:05+00:00",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies."
     },
     {
-      "source": "OpenAI",
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "published": "2026-05-25T00:00:00+00:00",
-      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
+      "source": "MIT Technology Review AI",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "link": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "published": "2026-05-26T14:54:10+00:00",
+      "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76%…"
     },
     {
-      "source": "Hugging Face",
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "link": "https://huggingface.co/blog/agent-glossary",
-      "published": "2026-05-25T00:00:00+00:00",
-      "summary": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right"
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+      "link": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+      "published": "2026-05-26T14:00:00+00:00",
+      "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "title": "A reality check on the AI jobs hysteria",
+      "link": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "published": "2026-05-26T09:00:00+00:00",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge wo…"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "title": "It’s time to address the looming crisis in entry-level work.",
+      "link": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "published": "2026-05-26T09:00:00+00:00",
+      "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shif…"
     }
   ]
 }

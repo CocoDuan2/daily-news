@@ -1,146 +1,111 @@
 {
-  "generated_at": "2026-06-03T06:05:26.539949+00:00",
-  "count": 20,
+  "generated_at": "2026-06-04T05:58:12.763856+00:00",
+  "count": 15,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-      "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-      "published": "2026-06-02T22:50:56+00:00",
-      "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners."
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "published": "2026-06-03T22:56:51+00:00",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-      "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "published": "2026-06-02T19:11:48+00:00",
-      "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible."
+      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "published": "2026-06-03T19:38:32+00:00",
+      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow."
     },
     {
       "source": "TechCrunch AI",
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "published": "2026-06-02T19:02:21+00:00",
-      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations."
+      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "published": "2026-06-03T19:07:42+00:00",
+      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-      "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-      "published": "2026-06-02T18:16:53+00:00",
-      "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding."
+      "title": "Amazon will show AI product images when you search for some reason",
+      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "published": "2026-06-03T15:50:26+00:00",
+      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-      "link": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-      "published": "2026-06-02T18:02:44+00:00",
-      "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system."
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "published": "2026-06-03T15:00:00+00:00",
+      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
-      "link": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-      "published": "2026-06-02T18:00:00+00:00",
-      "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members,…"
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "published": "2026-06-03T14:58:33+00:00",
+      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft offers devs a better way to control AI agent behavior",
-      "link": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-      "published": "2026-06-02T18:00:00+00:00",
-      "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files."
+      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "published": "2026-06-03T13:40:00+00:00",
+      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "published": "2026-06-03T13:15:00+00:00",
+      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-      "link": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
-      "published": "2026-06-02T17:47:28+00:00",
-      "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent."
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "published": "2026-06-03T13:02:51+00:00",
+      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational…"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Trump signs narrower executive order on AI oversight after industry objections",
-      "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "published": "2026-06-02T16:23:08+00:00",
-      "summary": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI launches new Codex tools for white-collar work",
-      "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "published": "2026-06-02T16:00:00+00:00",
-      "summary": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new to…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic scales Claude Mythos to critical infrastructure in 15+ countries",
-      "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "published": "2026-06-02T14:44:21+00:00",
-      "summary": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries — targeting critical infrastructure in power, water, healthcare, and communicat…"
+      "source": "Google AI Blog",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "published": "2026-06-03T13:00:00+00:00",
+      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts,…"
     },
     {
       "source": "Hugging Face",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "link": "https://huggingface.co/blog/Hcompany/holo31",
-      "published": "2026-06-02T14:13:23+00:00",
-      "summary": "Holo3.1: Fast & Local Computer Use Agents"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "ZeroDrift raises $10M to protect AI models from themselves",
-      "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "published": "2026-06-02T12:32:59+00:00",
-      "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem."
+      "title": "Direct Preference Optimization Beyond Chatbots",
+      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+      "published": "2026-06-03T12:55:11+00:00",
+      "summary": "Direct Preference Optimization Beyond Chatbots"
     },
     {
       "source": "OpenAI",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "link": "https://openai.com/index/travelers",
-      "published": "2026-06-02T12:00:00+00:00",
-      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "published": "2026-06-02T12:00:00+00:00",
-      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Rehumanizing global health care with agentic AI",
-      "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "published": "2026-06-02T11:23:34+00:00",
-      "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provisi…"
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "link": "https://openai.com/index/wasmer",
+      "published": "2026-06-03T12:00:00+00:00",
+      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
     },
     {
       "source": "OpenAI",
-      "title": "Codex for every role, tool, and workflow",
-      "link": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "published": "2026-06-02T09:00:00+00:00",
-      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "How small businesses can leverage AI",
-      "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "published": "2026-06-02T09:00:00+00:00",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research a…"
+      "title": "A blueprint for democratic governance of frontier AI",
+      "link": "https://openai.com/index/frontier-safety-blueprint",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
     },
     {
       "source": "OpenAI",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "published": "2026-06-02T07:00:00+00:00",
-      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
+      "title": "OpenAI public policy agenda",
+      "link": "https://openai.com/index/public-policy-agenda",
+      "published": "2026-06-03T10:00:00+00:00",
+      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
     },
     {
-      "source": "OpenAI",
-      "title": "Codex is becoming a productivity tool for everyone",
-      "link": "https://openai.com/index/codex-for-knowledge-work",
-      "published": "2026-06-02T02:00:00+00:00",
-      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
+      "source": "Hugging Face",
+      "title": "Adding MCP Tools to Reachy Mini",
+      "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+      "published": "2026-06-03T00:00:00+00:00",
+      "summary": "Adding MCP Tools to Reachy Mini"
     }
   ]
 }

@@ -1,111 +1,13 @@
 {
-  "generated_at": "2026-06-04T05:58:12.763856+00:00",
-  "count": 15,
+  "generated_at": "2026-06-05T05:20:10.173565+00:00",
+  "count": 1,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-      "published": "2026-06-03T22:56:51+00:00",
-      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-      "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "published": "2026-06-03T19:38:32+00:00",
-      "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "published": "2026-06-03T19:07:42+00:00",
-      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Amazon will show AI product images when you search for some reason",
-      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "published": "2026-06-03T15:50:26+00:00",
-      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "published": "2026-06-03T15:00:00+00:00",
-      "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-      "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-      "published": "2026-06-03T14:58:33+00:00",
-      "summary": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-      "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "published": "2026-06-03T13:40:00+00:00",
-      "summary": "WhatsApp will charge businesses for using its AI agent based on token usage."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "published": "2026-06-03T13:15:00+00:00",
-      "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "published": "2026-06-03T13:02:51+00:00",
-      "summary": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and provide the operational…"
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "link": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "published": "2026-06-03T13:00:00+00:00",
-      "summary": "A colorful, grain-textured collage of various items scattered across a light blue background. The items include a green bucket hat, a wooden clothes hanger, a blue-and-red striped collar, blue sunglasses, denim shorts,…"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Direct Preference Optimization Beyond Chatbots",
-      "link": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-      "published": "2026-06-03T12:55:11+00:00",
-      "summary": "Direct Preference Optimization Beyond Chatbots"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "link": "https://openai.com/index/wasmer",
-      "published": "2026-06-03T12:00:00+00:00",
-      "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
-    },
-    {
-      "source": "OpenAI",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "link": "https://openai.com/index/frontier-safety-blueprint",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI public policy agenda",
-      "link": "https://openai.com/index/public-policy-agenda",
-      "published": "2026-06-03T10:00:00+00:00",
-      "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Adding MCP Tools to Reachy Mini",
-      "link": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-      "published": "2026-06-03T00:00:00+00:00",
-      "summary": "Adding MCP Tools to Reachy Mini"
+      "title": "Mira Murati steps back into the spotlight, carefully",
+      "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+      "published": "2026-06-05T05:06:37+00:00",
+      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist."
     }
   ]
 }

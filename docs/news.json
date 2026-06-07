@@ -1,69 +1,41 @@
 {
-  "generated_at": "2026-06-06T04:55:01.388700+00:00",
-  "count": 9,
+  "generated_at": "2026-06-07T05:23:31.868829+00:00",
+  "count": 5,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Startup Battlefield 200 applications officially close in 3 days",
-      "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-      "published": "2026-06-05T20:00:00+00:00",
-      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Mo…"
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "published": "2026-06-06T20:32:24+00:00",
+      "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "link": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "published": "2026-06-06T19:02:33+00:00",
+      "summary": "Five labs, five minds: building a multi-model finance drama on small models"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "published": "2026-06-05T18:57:20+00:00",
-      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products."
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "published": "2026-06-06T18:13:36+00:00",
+      "summary": "Apple's WWDC nears: Here's what you can look forward to."
     },
     {
       "source": "TechCrunch AI",
-      "title": "The most interesting startups right now want to get you off your phone",
-      "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-      "published": "2026-06-05T17:17:06+00:00",
-      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing…"
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "published": "2026-06-06T17:42:15+00:00",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy."
     },
     {
       "source": "TechCrunch AI",
-      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-      "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "published": "2026-06-05T14:49:12+00:00",
-      "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "The latest AI news we announced in May 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "published": "2026-06-05T14:45:00+00:00",
-      "summary": "May AI recap"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-      "link": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-      "published": "2026-06-05T14:00:00+00:00",
-      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-      "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-      "published": "2026-06-05T13:03:10+00:00",
-      "summary": "The Australian data center operator plans to set up 5GW of capacity in India."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-      "published": "2026-06-05T09:00:00+00:00",
-      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-      "published": "2026-06-05T05:06:37+00:00",
-      "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist."
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "published": "2026-06-06T16:17:21+00:00",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\""
     }
   ]
 }

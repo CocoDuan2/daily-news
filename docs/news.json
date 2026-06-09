@@ -1,34 +1,20 @@
 {
-  "generated_at": "2026-06-08T05:52:28.432292+00:00",
-  "count": 4,
+  "generated_at": "2026-06-09T05:08:38.146849+00:00",
+  "count": 2,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "published": "2026-06-07T20:26:13+00:00",
-      "summary": "We're likely to see more price increases as the big AI companies plan to go public."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Amazing Digital Dentures (a failed project)",
-      "link": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
-      "published": "2026-06-07T19:44:27+00:00",
-      "summary": "Amazing Digital Dentures (a failed project)"
+      "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
+      "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+      "published": "2026-06-09T01:56:48+00:00",
+      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Notion restores access to Anthropic after service disruption",
-      "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "published": "2026-06-07T17:56:22+00:00",
-      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\""
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI is still working on that ‘super app’",
-      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "published": "2026-06-07T16:23:22+00:00",
-      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee."
+      "title": "Mercor’s Brendan Foody calls out Sequoia, accusing it of ‘dual-pricing’ valuation tricks",
+      "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+      "published": "2026-06-09T00:45:56+00:00",
+      "summary": "Sequoia is just one of the top firms that sells same equity at two different prices."
     }
   ]
 }

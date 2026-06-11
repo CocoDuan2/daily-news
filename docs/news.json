@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-06-10T05:21:28.377080+00:00",
-  "count": 1,
+  "generated_at": "2026-06-11T05:50:44.831933+00:00",
+  "count": 3,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "published": "2026-06-10T00:26:10+00:00",
-      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier."
+      "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "published": "2026-06-11T04:02:19+00:00",
+      "summary": "The decision comes as India emerges as the world’s largest GCC market."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Dario Amodei has just one direct report",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "published": "2026-06-11T03:53:06+00:00",
+      "summary": "If you doubted his genius, doubt no more."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "published": "2026-06-11T00:00:00+00:00",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
     }
   ]
 }

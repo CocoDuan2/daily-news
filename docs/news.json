@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-06-12T05:50:47.802176+00:00",
+  "generated_at": "2026-06-13T05:22:10.518787+00:00",
   "count": 3,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "published": "2026-06-12T04:30:00+00:00",
-      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation"
+      "source": "Hugging Face",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "link": "https://huggingface.co/blog/allenai/olmo-eval",
+      "published": "2026-06-12T15:56:10+00:00",
+      "summary": "olmo-eval: An evaluation workbench for the model development loop"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "published": "2026-06-12T01:48:07+00:00",
-      "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
+      "source": "OpenAI",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "published": "2026-06-12T10:00:00+00:00",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "published": "2026-06-12T01:04:38+00:00",
-      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
+      "source": "OpenAI",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "link": "https://openai.com/index/preply",
+      "published": "2026-06-12T00:00:00+00:00",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
     }
   ]
 }

@@ -1,27 +1,20 @@
 {
-  "generated_at": "2026-06-13T05:22:10.518787+00:00",
-  "count": 3,
+  "generated_at": "2026-06-14T05:51:03.859406+00:00",
+  "count": 2,
   "items": [
     {
-      "source": "Hugging Face",
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "link": "https://huggingface.co/blog/allenai/olmo-eval",
-      "published": "2026-06-12T15:56:10+00:00",
-      "summary": "olmo-eval: An evaluation workbench for the model development loop"
+      "source": "TechCrunch AI",
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "published": "2026-06-14T03:00:00+00:00",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
     },
     {
-      "source": "OpenAI",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "link": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "published": "2026-06-12T10:00:00+00:00",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "link": "https://openai.com/index/preply",
-      "published": "2026-06-12T00:00:00+00:00",
-      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+      "source": "TechCrunch AI",
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "published": "2026-06-14T00:03:49+00:00",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
     }
   ]
 }

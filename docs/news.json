@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-06-14T05:51:03.859406+00:00",
-  "count": 2,
+  "generated_at": "2026-06-15T06:26:56.167836+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "OpenAI",
+      "title": "Introducing the OpenAI Partner Network",
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "published": "2026-06-14T17:00:00+00:00",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "published": "2026-06-14T16:38:09+00:00",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
+    },
     {
       "source": "TechCrunch AI",
       "title": "As Anthropic suspends access to new models, India debates its AI future",

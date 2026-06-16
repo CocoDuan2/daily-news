@@ -1,34 +1,90 @@
 {
-  "generated_at": "2026-06-15T06:26:56.167836+00:00",
-  "count": 4,
+  "generated_at": "2026-06-16T06:34:43.134619+00:00",
+  "count": 12,
   "items": [
     {
-      "source": "OpenAI",
-      "title": "Introducing the OpenAI Partner Network",
-      "link": "https://openai.com/index/introducing-openai-partner-network",
-      "published": "2026-06-14T17:00:00+00:00",
-      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
+      "source": "TechCrunch AI",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "published": "2026-06-15T23:51:44+00:00",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts."
     },
     {
       "source": "TechCrunch AI",
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "published": "2026-06-14T16:38:09+00:00",
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "published": "2026-06-15T21:50:21+00:00",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government i…"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "title": "Why do South Koreans love AI so much?",
+      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "published": "2026-06-15T18:46:08+00:00",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walk…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "published": "2026-06-14T03:00:00+00:00",
-      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions."
+      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "published": "2026-06-15T18:30:58+00:00",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "published": "2026-06-14T00:03:49+00:00",
-      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "published": "2026-06-15T18:30:34+00:00",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't),…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "published": "2026-06-15T15:29:51+00:00",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurit…"
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "published": "2026-06-15T15:00:00+00:00",
+      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "published": "2026-06-15T14:34:45+00:00",
+      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "published": "2026-06-15T13:46:08+00:00",
+      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "published": "2026-06-15T13:00:00+00:00",
+      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "published": "2026-06-15T12:00:00+00:00",
+      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The AI layoff wave is becoming a powder keg",
+      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "published": "2026-06-15T07:25:41+00:00",
+      "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
     }
   ]
 }

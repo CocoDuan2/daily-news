@@ -1,90 +1,104 @@
 {
-  "generated_at": "2026-06-16T06:34:43.134619+00:00",
-  "count": 12,
+  "generated_at": "2026-06-17T06:14:58.240638+00:00",
+  "count": 14,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "published": "2026-06-15T23:51:44+00:00",
-      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts."
+      "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+      "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "published": "2026-06-16T22:34:17+00:00",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
     },
     {
       "source": "TechCrunch AI",
-      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
-      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "published": "2026-06-15T21:50:21+00:00",
-      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government i…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Why do South Koreans love AI so much?",
-      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "published": "2026-06-15T18:46:08+00:00",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walk…"
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "published": "2026-06-16T20:11:00+00:00",
+      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "published": "2026-06-15T18:30:58+00:00",
-      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "published": "2026-06-16T18:00:00+00:00",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google’s latest…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "published": "2026-06-16T16:49:44+00:00",
+      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel."
     },
     {
       "source": "TechCrunch AI",
       "title": "SpaceX is public: Everything you need to know post-IPO",
-      "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "published": "2026-06-15T18:30:34+00:00",
+      "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "published": "2026-06-16T15:53:12+00:00",
       "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't),…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "published": "2026-06-15T15:29:51+00:00",
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurit…"
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "published": "2026-06-15T15:00:00+00:00",
-      "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…"
+      "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+      "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "published": "2026-06-16T15:05:03+00:00",
+      "summary": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "published": "2026-06-15T14:34:45+00:00",
-      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks."
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "published": "2026-06-16T15:00:00+00:00",
+      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "published": "2026-06-15T13:46:08+00:00",
-      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup."
+      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
+      "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "published": "2026-06-16T14:50:09+00:00",
+      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note about layoffs."
     },
     {
       "source": "TechCrunch AI",
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "published": "2026-06-15T13:00:00+00:00",
-      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people."
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "published": "2026-06-16T13:15:09+00:00",
+      "summary": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems."
     },
     {
       "source": "TechCrunch AI",
-      "title": "A satellite just learned to find things on its own — here’s what that means",
-      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "published": "2026-06-15T12:00:00+00:00",
-      "summary": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own."
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "published": "2026-06-16T11:21:41+00:00",
+      "summary": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI."
     },
     {
       "source": "TechCrunch AI",
-      "title": "The AI layoff wave is becoming a powder keg",
-      "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "published": "2026-06-15T07:25:41+00:00",
-      "summary": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "published": "2026-06-16T10:30:00+00:00",
+      "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "title": "Want to get a data center online quickly? Give it some flex.",
+      "link": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "published": "2026-06-16T09:00:00+00:00",
+      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They mad…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "published": "2026-06-16T06:59:00+00:00",
+      "summary": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "link": "https://openai.com/index/deployment-simulation",
+      "published": "2026-06-16T00:00:00+00:00",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
     }
   ]
 }

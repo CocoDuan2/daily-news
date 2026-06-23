@@ -1,27 +1,20 @@
 {
-  "generated_at": "2026-06-22T06:30:45.410515+00:00",
-  "count": 3,
+  "generated_at": "2026-06-23T05:03:19.990999+00:00",
+  "count": 2,
   "items": [
     {
-      "source": "OpenAI",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "published": "2026-06-21T23:00:00+00:00",
-      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts."
+      "source": "TechCrunch AI",
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "published": "2026-06-23T01:27:55+00:00",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
     },
     {
       "source": "TechCrunch AI",
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "published": "2026-06-21T15:28:17+00:00",
-      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "published": "2026-06-21T14:40:28+00:00",
-      "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27."
+      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "published": "2026-06-23T00:11:31+00:00",
+      "summary": "OpenAI is attempting to tackle the security issues of the open source software community."
     }
   ]
 }

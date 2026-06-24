@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-06-23T05:03:19.990999+00:00",
-  "count": 2,
+  "generated_at": "2026-06-24T05:02:41.435682+00:00",
+  "count": 13,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "published": "2026-06-23T23:30:00+00:00",
+      "summary": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "link": "https://openai.com/index/gpt-5-immunology-mystery",
+      "published": "2026-06-23T17:00:00+00:00",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+      "published": "2026-06-23T17:00:00+00:00",
+      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "published": "2026-06-23T14:00:00+00:00",
+      "summary": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 — the ultimate founder bootcamp — before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping build shared standards for advanced AI",
+      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "published": "2026-06-23T13:00:00+00:00",
+      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "link": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "published": "2026-06-23T12:51:55+00:00",
+      "summary": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness"
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "title": "The $400 million machine powering the future of chipmaking",
+      "link": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "published": "2026-06-23T09:00:00+00:00",
+      "summary": "Jos Benschop is climbing a ladder to get to the top of his newest machine.&#160; It’s a bit of a schlep. The contraption is the size of a double-decker bus—more than 150 tons of gleaming precision-milled aluminum covere…"
+    },
     {
       "source": "TechCrunch AI",
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -11,10 +67,31 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
       "published": "2026-06-23T00:11:31+00:00",
-      "summary": "OpenAI is attempting to tackle the security issues of the open source software community."
+      "summary": "OpenAI is using AI to help the open source community better protect itself."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Omio is building the future of conversational travel",
+      "link": "https://openai.com/index/omio",
+      "published": "2026-06-23T00:00:00+00:00",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "link": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "published": "2026-06-23T00:00:00+00:00",
+      "summary": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "link": "https://huggingface.co/blog/cross-origin-storage",
+      "published": "2026-06-23T00:00:00+00:00",
+      "summary": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js"
     }
   ]
 }

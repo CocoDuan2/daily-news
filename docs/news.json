@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-06-25T05:06:54.691808+00:00",
+  "generated_at": "2026-06-26T05:10:12.608878+00:00",
   "count": 1,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Europe is pushing back on Washington’s chip war",
-      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "published": "2026-06-25T00:08:36+00:00",
-      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off…"
+      "source": "Hugging Face",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "link": "https://huggingface.co/blog/vllm-jobs",
+      "published": "2026-06-26T00:00:00+00:00",
+      "summary": "Run a vLLM Server on HF Jobs in One Command"
     }
   ]
 }

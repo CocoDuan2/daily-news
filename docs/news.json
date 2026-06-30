@@ -1,27 +1,20 @@
 {
-  "generated_at": "2026-06-29T05:52:25.034237+00:00",
-  "count": 3,
+  "generated_at": "2026-06-30T05:06:04.373824+00:00",
+  "count": 2,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "published": "2026-06-28T19:05:39+00:00",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”"
-    },
-    {
-      "source": "OpenAI",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "link": "https://openai.com/index/hp-frontier-partnership",
-      "published": "2026-06-28T17:00:00+00:00",
-      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+      "title": "The AI jobs debate just got messier",
+      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "published": "2026-06-30T04:01:00+00:00",
+      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "published": "2026-06-28T15:00:00+00:00",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron."
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "published": "2026-06-30T02:28:41+00:00",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models."
     }
   ]
 }

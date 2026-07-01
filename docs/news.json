@@ -1,20 +1,27 @@
 {
-  "generated_at": "2026-06-30T05:06:04.373824+00:00",
-  "count": 2,
+  "generated_at": "2026-07-01T05:22:52.959124+00:00",
+  "count": 3,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "The AI jobs debate just got messier",
-      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "published": "2026-06-30T04:01:00+00:00",
-      "summary": "A new report finds \"high-intensity AI adopters” saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs."
+      "title": "The “Father of the Internet” is finally retiring",
+      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "published": "2026-07-01T03:15:37+00:00",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "published": "2026-06-30T02:28:41+00:00",
-      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models."
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "published": "2026-07-01T02:16:06+00:00",
+      "summary": "Anthropic said it would begin restoring access to the Fable on July 1."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "published": "2026-07-01T02:04:40+00:00",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
     }
   ]
 }

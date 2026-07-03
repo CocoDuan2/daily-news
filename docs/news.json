@@ -1,104 +1,76 @@
 {
-  "generated_at": "2026-07-02T04:58:57.137653+00:00",
-  "count": 14,
+  "generated_at": "2026-07-03T04:43:07.664472+00:00",
+  "count": 10,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "published": "2026-07-01T18:54:18+00:00",
-      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "published": "2026-07-02T23:38:10+00:00",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "published": "2026-07-01T18:47:22+00:00",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that powe…"
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "The latest AI news we announced in June 2026",
-      "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "published": "2026-07-01T18:15:00+00:00",
-      "summary": "June Pixel Drop hero"
+      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "published": "2026-07-02T20:11:59+00:00",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "published": "2026-07-01T17:48:37+00:00",
-      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "published": "2026-07-02T18:44:02+00:00",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
     },
     {
-      "source": "Google AI Blog",
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "link": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "published": "2026-07-01T16:00:00+00:00",
-      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders."
+      "source": "TechCrunch AI",
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "published": "2026-07-02T18:31:09+00:00",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
     },
     {
       "source": "MIT Technology Review AI",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "published": "2026-07-01T14:35:16+00:00",
-      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “…"
+      "title": "Achieving operational excellence with AI",
+      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "published": "2026-07-02T15:37:08+00:00",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphas…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "published": "2026-07-01T14:25:23+00:00",
-      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said."
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "published": "2026-07-02T15:20:51+00:00",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "published": "2026-07-01T14:20:19+00:00",
-      "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "published": "2026-07-02T13:53:00+00:00",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "title": "Teaching AI to run with the turbines",
+      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "published": "2026-07-02T12:51:44+00:00",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where phys…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-      "published": "2026-07-01T14:00:00+00:00",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful c…"
+      "title": "Yep, we’re using OpenClaw to date now",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "published": "2026-07-02T12:00:00+00:00",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "published": "2026-07-01T13:43:07+00:00",
-      "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Az…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The ‘Father of the Internet’ is finally retiring",
-      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "published": "2026-07-01T03:15:37+00:00",
-      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "published": "2026-07-01T02:16:06+00:00",
-      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "published": "2026-07-01T02:04:40+00:00",
-      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "link": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "published": "2026-07-01T00:00:00+00:00",
-      "summary": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI"
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "published": "2026-07-02T05:30:00+00:00",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
     }
   ]
 }

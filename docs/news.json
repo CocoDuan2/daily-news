@@ -1,76 +1,20 @@
 {
-  "generated_at": "2026-07-03T04:43:07.664472+00:00",
-  "count": 10,
+  "generated_at": "2026-07-04T04:36:40.281890+00:00",
+  "count": 2,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "published": "2026-07-02T23:38:10+00:00",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
+      "title": "The only AI glossary you’ll need this year",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "published": "2026-07-03T21:20:00+00:00",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "published": "2026-07-02T20:11:59+00:00",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "published": "2026-07-02T18:44:02+00:00",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "published": "2026-07-02T18:31:09+00:00",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Achieving operational excellence with AI",
-      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "published": "2026-07-02T15:37:08+00:00",
-      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphas…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "published": "2026-07-02T15:20:51+00:00",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "published": "2026-07-02T13:53:00+00:00",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Teaching AI to run with the turbines",
-      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
-      "published": "2026-07-02T12:51:44+00:00",
-      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where phys…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Yep, we’re using OpenClaw to date now",
-      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "published": "2026-07-02T12:00:00+00:00",
-      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "published": "2026-07-02T05:30:00+00:00",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "published": "2026-07-03T18:43:00+00:00",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     }
   ]
 }

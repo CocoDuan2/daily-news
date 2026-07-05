@@ -1,20 +1,34 @@
 {
-  "generated_at": "2026-07-04T04:36:40.281890+00:00",
-  "count": 2,
+  "generated_at": "2026-07-05T04:57:56.069914+00:00",
+  "count": 4,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "The only AI glossary you’ll need this year",
-      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published": "2026-07-03T21:20:00+00:00",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "published": "2026-07-04T20:55:25+00:00",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
     },
     {
       "source": "TechCrunch AI",
-      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "published": "2026-07-03T18:43:00+00:00",
-      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "published": "2026-07-04T18:00:05+00:00",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "published": "2026-07-04T16:32:08+00:00",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "published": "2026-07-04T15:51:32+00:00",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
     }
   ]
 }

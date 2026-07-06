@@ -1,34 +1,13 @@
 {
-  "generated_at": "2026-07-05T04:57:56.069914+00:00",
-  "count": 4,
+  "generated_at": "2026-07-06T05:13:48.557639+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "published": "2026-07-04T20:55:25+00:00",
-      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "published": "2026-07-04T18:00:05+00:00",
-      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Alibaba reportedly bans employees from using Claude Code",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "published": "2026-07-04T16:32:08+00:00",
-      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "published": "2026-07-04T15:51:32+00:00",
-      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”"
+      "source": "Hugging Face",
+      "title": "🤗 Kernels: Major Updates",
+      "link": "https://huggingface.co/blog/revamped-kernels",
+      "published": "2026-07-06T00:00:00+00:00",
+      "summary": "🤗 Kernels: Major Updates"
     }
   ]
 }

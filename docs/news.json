@@ -1,7 +1,105 @@
 {
-  "generated_at": "2026-07-07T04:53:41.293784+00:00",
-  "count": 1,
+  "generated_at": "2026-07-08T04:15:35.874322+00:00",
+  "count": 15,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "published": "2026-07-07T22:18:10+00:00",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "published": "2026-07-07T21:15:33+00:00",
+      "summary": "From Hugging Face to Amazon SageMaker Studio in one click"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "published": "2026-07-07T20:04:32+00:00",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "published": "2026-07-07T19:58:20+00:00",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "published": "2026-07-07T19:28:38+00:00",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Claude Cowork expands to mobile and web",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "published": "2026-07-07T16:27:18+00:00",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+      "published": "2026-07-07T15:20:06+00:00",
+      "summary": "Hugging Face Models on Foundry Managed Compute"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "published": "2026-07-07T12:00:00+00:00",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "published": "2026-07-07T11:10:52+00:00",
+      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leade…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "published": "2026-07-07T09:00:00+00:00",
+      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine."
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "published": "2026-07-07T08:54:00+00:00",
+      "summary": "Managed agents feature bundle launch"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "link": "https://openai.com/index/australian-payments-plus",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+    },
+    {
+      "source": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "link": "https://openai.com/index/mufg",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "link": "https://huggingface.co/blog/skypilot-hf-storage",
+      "published": "2026-07-07T00:00:00+00:00",
+      "summary": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot"
+    },
     {
       "source": "Hugging Face",
       "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",

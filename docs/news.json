@@ -1,111 +1,146 @@
 {
-  "generated_at": "2026-07-08T04:15:35.874322+00:00",
-  "count": 15,
+  "generated_at": "2026-07-09T04:55:14.589650+00:00",
+  "count": 20,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "published": "2026-07-07T22:18:10+00:00",
-      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities."
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "published": "2026-07-08T22:41:33+00:00",
+      "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "published": "2026-07-08T20:37:03+00:00",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "published": "2026-07-08T19:30:16+00:00",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "published": "2026-07-08T19:19:15+00:00",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "published": "2026-07-08T18:30:08+00:00",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "published": "2026-07-08T17:47:55+00:00",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less sk…"
     },
     {
       "source": "Hugging Face",
-      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
-      "link": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-      "published": "2026-07-07T21:15:33+00:00",
-      "summary": "From Hugging Face to Amazon SageMaker Studio in one click"
+      "title": "Data for Agents",
+      "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "published": "2026-07-08T17:16:05+00:00",
+      "summary": "Data for Agents"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "published": "2026-07-07T20:04:32+00:00",
-      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "published": "2026-07-08T17:11:18+00:00",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "published": "2026-07-07T19:58:20+00:00",
-      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "published": "2026-07-08T17:00:00+00:00",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "published": "2026-07-07T19:28:38+00:00",
-      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem."
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "published": "2026-07-08T16:22:38+00:00",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Claude Cowork expands to mobile and web",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "published": "2026-07-07T16:27:18+00:00",
-      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "link": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "published": "2026-07-07T15:20:06+00:00",
-      "summary": "Hugging Face Models on Foundry Managed Compute"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "published": "2026-07-07T12:00:00+00:00",
-      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "link": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "published": "2026-07-07T11:10:52+00:00",
-      "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leade…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "published": "2026-07-07T09:00:00+00:00",
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine."
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "published": "2026-07-07T08:54:00+00:00",
-      "summary": "Managed agents feature bundle launch"
+      "title": "These AI startups are growing revenue at faster and faster rates",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "published": "2026-07-08T15:41:06+00:00",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
     },
     {
       "source": "OpenAI",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "link": "https://openai.com/index/australian-payments-plus",
-      "published": "2026-07-07T00:00:00+00:00",
-      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central."
+      "title": "Our approach to government and national security partnerships",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "published": "2026-07-08T13:30:00+00:00",
+      "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
     },
     {
       "source": "OpenAI",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "link": "https://openai.com/index/mufg",
-      "published": "2026-07-07T00:00:00+00:00",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+      "title": "Separating signal from noise in coding evaluations",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "published": "2026-07-08T13:00:00+00:00",
+      "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "published": "2026-07-08T13:00:00+00:00",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less sk…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "published": "2026-07-08T12:00:00+00:00",
+      "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping K–12 educators build practical AI skills",
+      "link": "https://openai.com/index/k-12-educators-practical-skills",
+      "published": "2026-07-08T10:00:00+00:00",
+      "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "published": "2026-07-08T08:00:00+00:00",
+      "summary": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "published": "2026-07-08T07:16:00+00:00",
+      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-Live",
+      "link": "https://openai.com/index/introducing-gpt-live",
+      "published": "2026-07-08T00:00:00+00:00",
+      "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
     },
     {
       "source": "Hugging Face",
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "link": "https://huggingface.co/blog/skypilot-hf-storage",
-      "published": "2026-07-07T00:00:00+00:00",
-      "summary": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "link": "https://huggingface.co/blog/lerobot-release-v060",
-      "published": "2026-07-07T00:00:00+00:00",
-      "summary": "LeRobot v0.6.0: Imagine, Evaluate, Improve"
+      "title": "Native-speed vLLM transformers modeling backend",
+      "link": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "published": "2026-07-08T00:00:00+00:00",
+      "summary": "Native-speed vLLM transformers modeling backend"
     }
   ]
 }

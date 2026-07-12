@@ -1,62 +1,13 @@
 {
-  "generated_at": "2026-07-11T04:13:21.999463+00:00",
-  "count": 8,
+  "generated_at": "2026-07-12T04:25:54.923741+00:00",
+  "count": 1,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "published": "2026-07-10T23:55:07+00:00",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this featu…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "published": "2026-07-10T21:00:29+00:00",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "published": "2026-07-10T19:00:00+00:00",
-      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "published": "2026-07-10T17:17:12+00:00",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hugging Face’s CEO on why companies are done renting their AI",
-      "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "published": "2026-07-10T14:00:00+00:00",
-      "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and…"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "published": "2026-07-10T07:00:00+00:00",
-      "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "published": "2026-07-10T00:16:54+00:00",
-      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "link": "https://huggingface.co/blog/torch-attention-profile",
-      "published": "2026-07-10T00:00:00+00:00",
-      "summary": "Profiling in PyTorch (Part 3): Attention is all you profile"
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "published": "2026-07-11T14:13:00+00:00",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
     }
   ]
 }

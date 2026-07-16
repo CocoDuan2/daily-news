@@ -1,13 +1,160 @@
 {
-  "generated_at": "2026-07-15T04:06:04.521362+00:00",
-  "count": 1,
+  "generated_at": "2026-07-16T04:09:45.852408+00:00",
+  "count": 22,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "published": "2026-07-15T23:59:44+00:00",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "published": "2026-07-15T19:41:38+00:00",
+      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "published": "2026-07-15T18:06:05+00:00",
+      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "published": "2026-07-15T18:04:06+00:00",
+      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "What building Shippy taught us about building agents",
+      "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "published": "2026-07-15T17:29:41+00:00",
+      "summary": "What building Shippy taught us about building agents"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "link": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "published": "2026-07-15T17:27:01+00:00",
+      "summary": "Model Routing Is Simple. Until It Isn’t."
+    },
+    {
+      "source": "MIT Technology Review AI",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "published": "2026-07-15T17:09:37+00:00",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagshi…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "published": "2026-07-15T17:00:34+00:00",
+      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "published": "2026-07-15T17:00:00+00:00",
+      "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "published": "2026-07-15T16:20:18+00:00",
+      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "published": "2026-07-15T15:29:33+00:00",
+      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+      "published": "2026-07-15T15:00:00+00:00",
+      "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms,…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "published": "2026-07-15T13:10:47+00:00",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "published": "2026-07-15T13:00:00+00:00",
+      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "published": "2026-07-15T13:00:00+00:00",
+      "summary": "Rime is handling over 100 million calls each month across multiple companies."
+    },
+    {
+      "source": "OpenAI",
+      "title": "The US is advancing AI safety through state and federal action",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "published": "2026-07-15T12:00:00+00:00",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "published": "2026-07-15T12:00:00+00:00",
+      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "published": "2026-07-15T12:00:00+00:00",
+      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild."
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "published": "2026-07-15T10:00:00+00:00",
+      "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+    },
     {
       "source": "TechCrunch AI",
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
       "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
       "published": "2026-07-15T00:27:04+00:00",
       "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Welcome Inkling by Thinking Machines",
+      "link": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "published": "2026-07-15T00:00:00+00:00",
+      "summary": "Welcome Inkling by Thinking Machines"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "link": "https://huggingface.co/blog/real-world-voiceeq",
+      "published": "2026-07-15T00:00:00+00:00",
+      "summary": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI"
     }
   ]
 }

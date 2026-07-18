@@ -1,125 +1,90 @@
 {
-  "generated_at": "2026-07-17T04:08:02.588171+00:00",
-  "count": 17,
+  "generated_at": "2026-07-18T03:55:46.954215+00:00",
+  "count": 12,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "published": "2026-07-16T18:32:54+00:00",
-      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference im…"
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "published": "2026-07-17T22:55:09+00:00",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "published": "2026-07-16T18:22:06+00:00",
-      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "published": "2026-07-17T22:12:56+00:00",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "published": "2026-07-17T21:20:47+00:00",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "published": "2026-07-17T20:19:49+00:00",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI-driven memory crunch jolts India’s smartphone market",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "published": "2026-07-17T20:09:27+00:00",
+      "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "published": "2026-07-17T17:45:46+00:00",
+      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief h…"
     },
     {
       "source": "Hugging Face",
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "link": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "published": "2026-07-16T16:01:21+00:00",
-      "summary": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval"
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "link": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "published": "2026-07-17T15:57:54+00:00",
+      "summary": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "published": "2026-07-17T15:21:17+00:00",
+      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "published": "2026-07-17T14:00:00+00:00",
+      "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief h…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "published": "2026-07-17T12:00:00+00:00",
+      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals."
     },
     {
       "source": "OpenAI",
-      "title": "Why teens deserve access to safe AI",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships."
+      "title": "A scorecard for the AI age",
+      "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "published": "2026-07-17T10:00:00+00:00",
+      "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute."
     },
     {
-      "source": "Google AI Blog",
-      "title": "Connect more of your apps to Search",
-      "link": "https://blog.google/products-and-platforms/products/search/connected-apps/",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "Connected apps rendering"
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "Text \"Gemini Omni and Personal Avatars in Google Vids\" surrounded by various images"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "published": "2026-07-16T16:00:00+00:00",
-      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Yes, you can now order DoorDash from the command line",
-      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "published": "2026-07-16T15:38:55+00:00",
-      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI a…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "published": "2026-07-16T15:31:09+00:00",
-      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "published": "2026-07-16T15:02:00+00:00",
-      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "published": "2026-07-16T14:40:00+00:00",
-      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "published": "2026-07-16T14:26:29+00:00",
-      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "published": "2026-07-16T13:17:59+00:00",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Newer Models, Same Advantage",
-      "link": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "published": "2026-07-16T11:49:48+00:00",
-      "summary": "Newer Models, Same Advantage"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "published": "2026-07-16T04:00:00+00:00",
-      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "link": "https://openai.com/index/cars24",
-      "published": "2026-07-16T00:00:00+00:00",
-      "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Security incident disclosure — July 2026",
-      "link": "https://huggingface.co/blog/security-incident-july-2026",
-      "published": "2026-07-16T00:00:00+00:00",
-      "summary": "Security incident disclosure — July 2026"
+      "source": "MIT Technology Review AI",
+      "title": "The risk of weather data sabotage is rising",
+      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "published": "2026-07-17T08:57:32+00:00",
+      "summary": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds…"
     }
   ]
 }

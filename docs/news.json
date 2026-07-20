@@ -1,20 +1,34 @@
 {
-  "generated_at": "2026-07-19T04:21:43.496668+00:00",
-  "count": 2,
+  "generated_at": "2026-07-20T04:36:21.569883+00:00",
+  "count": 4,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Kimi: Threat or menace?",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "published": "2026-07-18T18:51:07+00:00",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
+      "title": "What to watch for after Jensen Huang’s Japan visit",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "published": "2026-07-19T21:16:07+00:00",
+      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "published": "2026-07-18T04:47:25+00:00",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
+      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "published": "2026-07-19T19:24:45+00:00",
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "published": "2026-07-19T14:52:08+00:00",
+      "summary": "\"Everybody knows the Greeks are inside.\""
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "published": "2026-07-19T14:00:00+00:00",
+      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more."
     }
   ]
 }

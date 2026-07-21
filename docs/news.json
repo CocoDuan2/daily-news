@@ -1,34 +1,13 @@
 {
-  "generated_at": "2026-07-20T04:36:21.569883+00:00",
-  "count": 4,
+  "generated_at": "2026-07-21T04:16:07.543176+00:00",
+  "count": 1,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "What to watch for after Jensen Huang’s Japan visit",
-      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "published": "2026-07-19T21:16:07+00:00",
-      "summary": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "published": "2026-07-19T19:24:45+00:00",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "published": "2026-07-19T14:52:08+00:00",
-      "summary": "\"Everybody knows the Greeks are inside.\""
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "published": "2026-07-19T14:00:00+00:00",
-      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more."
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "published": "2026-07-21T00:12:24+00:00",
+      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
     }
   ]
 }

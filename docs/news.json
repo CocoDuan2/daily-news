@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-30T04:06:45.255152+00:00",
+  "generated_at": "2026-07-31T04:23:50.304869+00:00",
   "count": 1,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "published": "2026-07-30T00:21:06+00:00",
-      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "published": "2026-07-31T01:06:54+00:00",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
     }
   ]
 }

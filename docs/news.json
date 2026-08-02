@@ -1,104 +1,41 @@
 {
-  "generated_at": "2026-08-01T04:21:55.859206+00:00",
-  "count": 14,
+  "generated_at": "2026-08-02T04:24:41.276653+00:00",
+  "count": 5,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "published": "2026-07-31T22:47:26+00:00",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "published": "2026-08-01T20:26:04+00:00",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
     },
     {
       "source": "TechCrunch AI",
-      "title": "India is starting to pay for apps, not just download them",
-      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "published": "2026-07-31T21:07:45+00:00",
-      "summary": "India's app market generated a record $345 million in Q2."
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "published": "2026-08-01T19:45:45+00:00",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
     },
     {
       "source": "TechCrunch AI",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "published": "2026-07-31T19:47:28+00:00",
-      "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "published": "2026-08-01T17:07:34+00:00",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-      "published": "2026-07-31T17:26:32+00:00",
-      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-      "published": "2026-07-31T16:49:08+00:00",
-      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Siri AI could come with a paywall for power users",
-      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "published": "2026-07-31T16:08:18+00:00",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "published": "2026-07-31T15:16:17+00:00",
-      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
+      "title": "This $9 key physically locks your most addictive apps",
+      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "published": "2026-08-01T15:58:17+00:00",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
     },
     {
       "source": "OpenAI",
-      "title": "Advancing responsible AI across Europe",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "published": "2026-07-31T15:00:00+00:00",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Building abundant intelligence",
-      "link": "https://openai.com/index/building-abundant-intelligence",
-      "published": "2026-07-31T15:00:00+00:00",
-      "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "published": "2026-07-31T14:47:11+00:00",
-      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "published": "2026-07-31T14:00:00+00:00",
-      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models…"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Univé builds an AI-ready workforce",
-      "link": "https://openai.com/index/unive",
-      "published": "2026-07-31T07:00:00+00:00",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "published": "2026-07-31T01:06:54+00:00",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Disrupting a Criminal Scam Operation",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "published": "2026-07-31T00:00:00+00:00",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "published": "2026-08-01T00:00:00+00:00",
+      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
     }
   ]
 }

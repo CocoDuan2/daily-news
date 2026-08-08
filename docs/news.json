@@ -1,104 +1,69 @@
 {
-  "generated_at": "2026-08-07T03:50:13.661125+00:00",
-  "count": 14,
+  "generated_at": "2026-08-08T02:54:55.074938+00:00",
+  "count": 9,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-      "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "published": "2026-08-06T22:43:53+00:00",
-      "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "published": "2026-08-07T22:48:24+00:00",
+      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world s…"
     },
     {
       "source": "TechCrunch AI",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "published": "2026-08-06T17:34:42+00:00",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "published": "2026-08-06T17:00:37+00:00",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "published": "2026-08-06T15:53:03+00:00",
-      "summary": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "published": "2026-08-06T15:10:32+00:00",
-      "summary": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCl…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "link": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "published": "2026-08-06T13:31:57+00:00",
-      "summary": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "published": "2026-08-06T13:00:00+00:00",
-      "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "published": "2026-08-06T13:00:00+00:00",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and AI development."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "published": "2026-08-06T12:30:00+00:00",
-      "summary": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "link": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "published": "2026-08-06T12:00:00+00:00",
-      "summary": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "link": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "published": "2026-08-06T10:00:00+00:00",
-      "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "published": "2026-08-06T06:00:00+00:00",
-      "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
-    },
-    {
-      "source": "OpenAI",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "published": "2026-08-06T00:00:00+00:00",
-      "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "published": "2026-08-07T21:30:11+00:00",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
     },
     {
       "source": "Hugging Face",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "link": "https://huggingface.co/blog/baseten",
-      "published": "2026-08-06T00:00:00+00:00",
-      "summary": "Baseten on Hugging Face Inference Providers 🔥"
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "link": "https://huggingface.co/blog/allenai/tutormoments",
+      "published": "2026-08-07T17:53:32+00:00",
+      "summary": "TutorMoments: Do AI tutors know when to help and when to hold back?"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "published": "2026-08-07T16:16:09+00:00",
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "published": "2026-08-07T15:20:00+00:00",
+      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "published": "2026-08-07T14:22:49+00:00",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "published": "2026-08-07T14:00:00+00:00",
+      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "published": "2026-08-07T11:40:37+00:00",
+      "summary": "Meta's total fine has racked up to $942 million in this case."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "published": "2026-08-07T09:00:00+00:00",
+      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
     }
   ]
 }

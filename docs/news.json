@@ -1,69 +1,20 @@
 {
-  "generated_at": "2026-08-08T02:54:55.074938+00:00",
-  "count": 9,
+  "generated_at": "2026-08-09T03:02:11.440430+00:00",
+  "count": 2,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "published": "2026-08-07T22:48:24+00:00",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world s…"
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "published": "2026-08-08T21:24:02+00:00",
+      "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
     },
     {
       "source": "TechCrunch AI",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "published": "2026-08-07T21:30:11+00:00",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "link": "https://huggingface.co/blog/allenai/tutormoments",
-      "published": "2026-08-07T17:53:32+00:00",
-      "summary": "TutorMoments: Do AI tutors know when to help and when to hold back?"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "published": "2026-08-07T16:16:09+00:00",
-      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "published": "2026-08-07T15:20:00+00:00",
-      "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "published": "2026-08-07T14:22:49+00:00",
-      "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "published": "2026-08-07T14:00:00+00:00",
-      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products —&#160;almost as&#160;if&#160;they&#8217;re&#160;forming a new government. And whether&#160;you&#8217;re&…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "published": "2026-08-07T11:40:37+00:00",
-      "summary": "Meta's total fine has racked up to $942 million in this case."
-    },
-    {
-      "source": "OpenAI",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "link": "https://openai.com/index/hsp-gruppe",
-      "published": "2026-08-07T09:00:00+00:00",
-      "summary": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "published": "2026-08-08T19:41:13+00:00",
+      "summary": "NextSlide says its team members are now working on ChatGPT."
     }
   ]
 }

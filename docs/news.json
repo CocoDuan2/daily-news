@@ -1,125 +1,118 @@
 {
-  "generated_at": "2026-08-19T02:18:31.587553+00:00",
-  "count": 17,
+  "generated_at": "2026-08-20T02:17:26.367082+00:00",
+  "count": 16,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "published": "2026-08-18T22:14:25+00:00",
-      "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "published": "2026-08-19T23:32:00+00:00",
+      "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "published": "2026-08-19T22:10:46+00:00",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "published": "2026-08-19T21:51:23+00:00",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "published": "2026-08-19T19:11:40+00:00",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance."
     },
     {
       "source": "OpenAI",
-      "title": "Strengthening democratic oversight in national security",
-      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "published": "2026-08-18T19:00:00+00:00",
-      "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "5 new ways to level up your learning with Search",
+      "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "an illustrated image with icons and phrasing like \"Add Notebook\" and \"Ask Google\""
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "published": "2026-08-19T19:00:00+00:00",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "published": "2026-08-19T18:46:14+00:00",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "published": "2026-08-19T17:26:48+00:00",
+      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI pro…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "published": "2026-08-19T15:44:53+00:00",
+      "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "published": "2026-08-19T15:00:00+00:00",
+      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "published": "2026-08-19T14:09:39+00:00",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie."
     },
     {
       "source": "Hugging Face",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "published": "2026-08-18T18:09:38+00:00",
-      "summary": "How Much Memory Does Your Agent Actually Need?"
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "link": "https://huggingface.co/blog/LiquidAI/qad",
+      "published": "2026-08-19T13:48:49+00:00",
+      "summary": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation"
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "published": "2026-08-18T18:00:00+00:00",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
+      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "published": "2026-08-19T12:00:00+00:00",
+      "summary": "It's the data, stupid."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "published": "2026-08-18T17:21:58+00:00",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "published": "2026-08-18T16:19:10+00:00",
-      "summary": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "published": "2026-08-18T14:00:00+00:00",
-      "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "published": "2026-08-18T13:50:30+00:00",
-      "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Perplexity’s free AI offer left it with millions more users in India",
-      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "published": "2026-08-18T13:45:40+00:00",
-      "summary": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "published": "2026-08-19T10:00:00+00:00",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber."
     },
     {
       "source": "OpenAI",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "link": "https://openai.com/index/partnering-with-codeai",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "link": "https://openai.com/index/chatgpt-for-teens",
-      "published": "2026-08-18T11:00:00+00:00",
-      "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "We still don’t know how people are really using AI",
-      "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-      "published": "2026-08-18T10:06:43+00:00",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no indep…"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "published": "2026-08-18T09:00:00+00:00",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chip…"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "link": "https://openai.com/index/asana",
-      "published": "2026-08-18T07:00:00+00:00",
-      "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
-    },
-    {
-      "source": "OpenAI",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "link": "https://openai.com/index/nvidia/chatgpt-work",
-      "published": "2026-08-18T00:00:00+00:00",
-      "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "link": "https://huggingface.co/blog/multi-vector-encoder",
-      "published": "2026-08-18T00:00:00+00:00",
-      "summary": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers"
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "published": "2026-08-19T07:00:00+00:00",
+      "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
     }
   ]
 }

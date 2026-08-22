@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-08-21T02:23:20.614150+00:00",
-  "count": 1,
+  "generated_at": "2026-08-22T02:15:32.289421+00:00",
+  "count": 7,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "published": "2026-08-21T23:07:25+00:00",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "published": "2026-08-21T22:37:38+00:00",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "published": "2026-08-21T19:43:39+00:00",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "published": "2026-08-21T14:00:00+00:00",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "published": "2026-08-21T14:00:00+00:00",
+      "summary": "There's about to be a big fight to secure access to space."
+    },
     {
       "source": "TechCrunch AI",
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "published": "2026-08-21T00:13:44+00:00",
       "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Measuring benchmark optimization in speech recognition",
+      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "published": "2026-08-21T00:00:00+00:00",
+      "summary": "Measuring benchmark optimization in speech recognition"
     }
   ]
 }

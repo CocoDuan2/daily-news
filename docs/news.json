@@ -1,13 +1,139 @@
 {
-  "generated_at": "2026-09-01T06:05:37.535693+00:00",
-  "count": 1,
+  "generated_at": "2026-09-02T05:31:17.063832+00:00",
+  "count": 19,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "published": "2026-09-01T22:08:24+00:00",
+      "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "link": "https://huggingface.co/blog/allenai/benchmirt",
+      "published": "2026-09-01T21:39:07+00:00",
+      "summary": "BenchMIRT: What are LLM benchmarks actually measuring?"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "published": "2026-09-01T21:06:24+00:00",
+      "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "published": "2026-09-01T20:53:05+00:00",
+      "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "The latest AI news we announced in August 2026",
+      "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "published": "2026-09-01T20:45:00+00:00",
+      "summary": "Transitioning cards: 1. Text \"Gemini 3.7 Flash\" next to the Gemini logo icon; 2. a photo of a pixel phone; 3. Google Gemini logo above the text \"Claim your student plan for 1 year at no cost\""
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "published": "2026-09-01T19:39:22+00:00",
+      "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "published": "2026-09-01T17:35:37+00:00",
+      "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "published": "2026-09-01T17:00:00+00:00",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "published": "2026-09-01T17:00:00+00:00",
+      "summary": "OpenAI said that the integration provides read-only access to health records for clinicians."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "published": "2026-09-01T16:31:04+00:00",
+      "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
+    },
+    {
+      "source": "Google AI Blog",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "published": "2026-09-01T16:00:00+00:00",
+      "summary": "Collage of images created by Google Pics, with the text \"Say hello to Google Pics\" on top"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "published": "2026-09-01T15:51:55+00:00",
+      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "published": "2026-09-01T15:45:51+00:00",
+      "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "published": "2026-09-01T15:10:58+00:00",
+      "summary": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "published": "2026-09-01T13:00:00+00:00",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "published": "2026-09-01T12:00:00+00:00",
+      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "link": "https://openai.com/index/gilbert-tobin",
+      "published": "2026-09-01T01:00:00+00:00",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
+    },
     {
       "source": "TechCrunch AI",
       "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
       "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
       "published": "2026-09-01T00:13:00+00:00",
       "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "link": "https://huggingface.co/blog/webgpu-kernels",
+      "published": "2026-09-01T00:00:00+00:00",
+      "summary": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
     }
   ]
 }

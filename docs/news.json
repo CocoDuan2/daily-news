@@ -1,125 +1,20 @@
 {
-  "generated_at": "2026-09-03T05:32:03.106769+00:00",
-  "count": 17,
+  "generated_at": "2026-09-04T05:37:05.744981+00:00",
+  "count": 2,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "published": "2026-09-02T23:01:00+00:00",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "published": "2026-09-04T04:21:03+00:00",
+      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "published": "2026-09-02T22:44:56+00:00",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "published": "2026-09-02T22:24:09+00:00",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "published": "2026-09-02T20:19:14+00:00",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-      "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-      "published": "2026-09-02T17:18:13+00:00",
-      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#1…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-      "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-      "published": "2026-09-02T17:09:57+00:00",
-      "summary": "The internet has a trust problem, and&#160;it’s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, product reviews,&#1…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "published": "2026-09-02T17:09:06+00:00",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "published": "2026-09-02T16:04:10+00:00",
-      "summary": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "published": "2026-09-02T16:01:48+00:00",
-      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
-    },
-    {
-      "source": "Google AI Blog",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "published": "2026-09-02T15:40:00+00:00",
-      "summary": "Introducing Fairwind Program"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "published": "2026-09-02T15:01:23+00:00",
-      "summary": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-      "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "published": "2026-09-02T14:56:34+00:00",
-      "summary": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "published": "2026-09-02T14:03:57+00:00",
-      "summary": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "link": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "published": "2026-09-02T14:00:00+00:00",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data sil…"
-    },
-    {
-      "source": "Hugging Face",
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-      "published": "2026-09-02T13:49:14+00:00",
-      "summary": "Real-Time Intelligence with IBM Time Series Models on Confluent"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "published": "2026-09-02T12:09:42+00:00",
-      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed."
-    },
-    {
-      "source": "OpenAI",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "link": "https://openai.com/index/atv-big-air-tour",
-      "published": "2026-09-02T12:00:00+00:00",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes."
+      "title": "Crusoe reportedly raises $3B at a $30B valuation",
+      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "published": "2026-09-04T00:48:42+00:00",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
     }
   ]
 }

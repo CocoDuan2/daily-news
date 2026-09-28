@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-09-27T06:22:40.622940+00:00",
-  "count": 1,
+  "generated_at": "2026-09-28T06:25:12.242863+00:00",
+  "count": 4,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "published": "2026-09-27T20:34:28+00:00",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "published": "2026-09-27T19:57:30+00:00",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "published": "2026-09-27T16:30:00+00:00",
+      "summary": "\"AI is the devil and I its maker.\""
+    },
     {
       "source": "TechCrunch AI",
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",

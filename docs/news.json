@@ -1,34 +1,20 @@
 {
-  "generated_at": "2026-09-28T06:25:12.242863+00:00",
-  "count": 4,
+  "generated_at": "2026-09-29T06:39:05.213248+00:00",
+  "count": 2,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "published": "2026-09-27T20:34:28+00:00",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "published": "2026-09-29T05:13:43+00:00",
+      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity."
     },
     {
       "source": "TechCrunch AI",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "published": "2026-09-27T19:57:30+00:00",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "published": "2026-09-27T16:30:00+00:00",
-      "summary": "\"AI is the devil and I its maker.\""
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "published": "2026-09-27T01:30:00+00:00",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October."
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "published": "2026-09-29T00:30:00+00:00",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India."
     }
   ]
 }

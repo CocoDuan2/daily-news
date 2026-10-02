@@ -1,132 +1,13 @@
 {
-  "generated_at": "2026-10-01T06:57:46.770571+00:00",
-  "count": 18,
+  "generated_at": "2026-10-02T06:47:39.181891+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "published": "2026-09-30T23:43:07+00:00",
-      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "published": "2026-09-30T21:07:40+00:00",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "published": "2026-09-30T19:00:57+00:00",
-      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "published": "2026-09-30T18:23:57+00:00",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "published": "2026-09-30T17:45:00+00:00",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The ugly economics of consumer AI",
-      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "published": "2026-09-30T17:24:45+00:00",
-      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-      "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "published": "2026-09-30T16:24:23+00:00",
-      "summary": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "published": "2026-09-30T16:00:24+00:00",
-      "summary": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-      "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "published": "2026-09-30T16:00:00+00:00",
-      "summary": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Instinct’s new product recommendations are giving some users the ick",
-      "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-      "published": "2026-09-30T15:56:28+00:00",
-      "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-      "published": "2026-09-30T14:30:00+00:00",
-      "summary": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-      "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-      "published": "2026-09-30T14:27:11+00:00",
-      "summary": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and l…"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-      "published": "2026-09-30T14:15:00+00:00",
-      "summary": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Airbnb adds AI search, more social features",
-      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "published": "2026-09-30T12:00:00+00:00",
-      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
-    },
-    {
-      "source": "MIT Technology Review AI",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "published": "2026-09-30T10:40:30+00:00",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures a…"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "published": "2026-09-30T10:30:00+00:00",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
-    },
-    {
-      "source": "OpenAI",
-      "title": "Helping small businesses put AI to work",
-      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "published": "2026-09-30T10:00:00+00:00",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
-    },
-    {
       "source": "Hugging Face",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "link": "https://huggingface.co/blog/open-tts-leaderboard",
-      "published": "2026-09-30T00:00:00+00:00",
-      "summary": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning"
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "published": "2026-10-02T04:01:31+00:00",
+      "summary": "AutoSynthData: Generating Training Data for Enterprise Agents"
     }
   ]
 }

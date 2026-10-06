@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-10-05T06:37:27.047013+00:00",
-  "count": 3,
+  "generated_at": "2026-10-06T07:18:05.328579+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "published": "2026-10-04T20:31:07+00:00",
-      "summary": "AI slop seems to be overwhelming bug bounty programs."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "published": "2026-10-04T20:08:34+00:00",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "published": "2026-10-04T15:15:10+00:00",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety."
+      "source": "Hugging Face",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "published": "2026-10-06T06:44:39+00:00",
+      "summary": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance"
     }
   ]
 }

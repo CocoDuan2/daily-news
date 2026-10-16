@@ -1,27 +1,13 @@
 {
-  "generated_at": "2026-10-15T05:38:16.987530+00:00",
-  "count": 3,
+  "generated_at": "2026-10-16T05:34:33.515266+00:00",
+  "count": 1,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "published": "2026-10-15T04:30:00+00:00",
-      "summary": "Figma is also releasing its code layers feature in open beta."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "published": "2026-10-15T01:01:32+00:00",
-      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "published": "2026-10-15T00:00:00+00:00",
-      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball in…"
+      "source": "Hugging Face",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "published": "2026-10-16T01:44:47+00:00",
+      "summary": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline"
     }
   ]
 }

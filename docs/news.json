@@ -1,13 +1,160 @@
 {
-  "generated_at": "2026-10-21T05:47:16.475747+00:00",
-  "count": 1,
+  "generated_at": "2026-10-22T05:50:01.865917+00:00",
+  "count": 22,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "published": "2026-10-21T22:51:22+00:00",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "published": "2026-10-21T21:16:20+00:00",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their compa…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "published": "2026-10-21T21:14:19+00:00",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Broad access through consistent standards",
+      "link": "https://openai.com/index/broad-access-through-consistent-standards",
+      "published": "2026-10-21T21:00:00+00:00",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "published": "2026-10-21T20:27:41+00:00",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "published": "2026-10-21T19:30:00+00:00",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transact…"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "link": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "published": "2026-10-21T18:26:30+00:00",
+      "summary": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "published": "2026-10-21T17:59:12+00:00",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "published": "2026-10-21T17:35:36+00:00",
+      "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "published": "2026-10-21T17:18:27+00:00",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "published": "2026-10-21T17:00:00+00:00",
+      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "published": "2026-10-21T16:04:43+00:00",
+      "summary": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "published": "2026-10-21T14:58:18+00:00",
+      "summary": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "published": "2026-10-21T14:00:00+00:00",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "published": "2026-10-21T13:00:00+00:00",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT."
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "published": "2026-10-21T12:00:00+00:00",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "published": "2026-10-21T07:00:00+00:00",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source."
+    },
+    {
+      "source": "OpenAI",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "published": "2026-10-21T07:00:00+00:00",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "published": "2026-10-21T04:50:00+00:00",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells."
+    },
     {
       "source": "Google AI Blog",
       "title": "Southeast Asia’s digital economy to hit $368 billion",
       "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
       "published": "2026-10-21T04:00:00+00:00",
       "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing…"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "published": "2026-10-21T00:00:00+00:00",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
+    },
+    {
+      "source": "OpenAI",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "published": "2026-10-21T00:00:00+00:00",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions."
     }
   ]
 }

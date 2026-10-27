@@ -1,27 +1,20 @@
 {
-  "generated_at": "2026-10-26T05:50:13.461987+00:00",
-  "count": 3,
+  "generated_at": "2026-10-27T06:02:42.315993+00:00",
+  "count": 2,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "published": "2026-10-25T21:31:16+00:00",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "published": "2026-10-27T02:00:00+00:00",
+      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
     },
     {
       "source": "TechCrunch AI",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "published": "2026-10-25T16:57:32+00:00",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "published": "2026-10-25T14:10:00+00:00",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "published": "2026-10-27T01:12:21+00:00",
+      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how m…"
     }
   ]
 }

@@ -1,20 +1,13 @@
 {
-  "generated_at": "2026-10-27T06:02:42.315993+00:00",
-  "count": 2,
+  "generated_at": "2026-10-28T06:41:27.210020+00:00",
+  "count": 1,
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "published": "2026-10-27T02:00:00+00:00",
-      "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-      "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "published": "2026-10-27T01:12:21+00:00",
-      "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how m…"
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "published": "2026-10-28T01:15:28+00:00",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
     }
   ]
 }

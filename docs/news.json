@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-10-31T06:44:36.058023+00:00",
-  "count": 1,
+  "generated_at": "2026-11-01T07:11:46.267713+00:00",
+  "count": 5,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "published": "2026-10-31T21:41:00+00:00",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "published": "2026-10-31T21:36:07+00:00",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Reg…"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "published": "2026-10-31T21:17:03+00:00",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "published": "2026-10-31T16:12:55+00:00",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations."
+    },
     {
       "source": "TechCrunch AI",
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",

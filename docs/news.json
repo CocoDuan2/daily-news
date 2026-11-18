@@ -1,13 +1,20 @@
 {
-  "generated_at": "2026-11-17T08:53:14.512737+00:00",
-  "count": 1,
+  "generated_at": "2026-11-18T08:17:55.897971+00:00",
+  "count": 2,
   "items": [
     {
-      "source": "OpenAI",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "published": "2026-11-17T00:00:00+00:00",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+      "source": "TechCrunch AI",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "published": "2026-11-18T01:44:21+00:00",
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "published": "2026-11-18T00:16:50+00:00",
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T09:38:47.758114+00:00",
+  "generated_at": "2026-11-26T09:13:43.481857+00:00",
   "count": 1,
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "published": "2026-11-25T00:12:02+00:00",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal…"
+      "source": "Hugging Face",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "published": "2026-11-26T05:05:36+00:00",
+      "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference"
     }
   ]
 }

@@ -1,13 +1,41 @@
 {
-  "generated_at": "2026-11-26T09:13:43.481857+00:00",
-  "count": 1,
+  "generated_at": "2026-11-27T09:29:40.985217+00:00",
+  "count": 5,
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "published": "2026-11-26T20:03:54+00:00",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "published": "2026-11-26T16:00:00+00:00",
+      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "published": "2026-11-26T11:37:17+00:00",
+      "summary": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon"
+    },
     {
       "source": "Hugging Face",
       "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "published": "2026-11-26T05:05:36+00:00",
       "summary": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference"
+    },
+    {
+      "source": "Hugging Face",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "link": "https://huggingface.co/blog/training-swarms",
+      "published": "2026-11-26T00:00:00+00:00",
+      "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems"
     }
   ]
 }
